@@ -1,0 +1,33 @@
+{
+  "subtitle": "Your baby is coming NOW!", 
+  "description": "Here\u2019s how your body will give birth", 
+  "language": "eng_GB", 
+  "title": "Your baby is coming NOW!", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:14:46+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:49:32.836630+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "b8d4ef7f8d6d4c2bbb6ad7952b4109f8", 
+    "41c276ad501641449dfd8672b2c53879", 
+    "11f29887cb264fe6ae2fb9f6d4129732"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nAs labour goes on, contractions last longer and come more often.\r\n\r\nThis is the strong, active phase of labour. Contractions in strong labour open your cervix more rapidly, ready for your baby to pass through. You probably will not be able to talk through these contractions, or make eye contact or even smile at people. You will have to stop what you are doing, curl up or kneel down and focus completely on coping with the contraction. Each one may leave you sweating and you may find you make loud groaning noises through the contraction. \r\n\r\nContractions may come as often as every 3 to 4 minutes and last 60 to 90 seconds. Between contractions, move around to get comfortable, have a cool drink, and talk to those around you. \r\n\r\nListen to your body and try different positions to stay comfortable.\r\n\r\nPass water often.\r\n\r\nIf you can, have a wash with warm, clean, safe water, or even take a warm shower or bath to ease the pain.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 50, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "your-baby-coming-now", 
+  "uuid": "6a4101a12ed9444486940712892fb89f"
+}

@@ -1,0 +1,34 @@
+{
+  "subtitle": "The birth of your baby", 
+  "description": "Short panting breaths help", 
+  "language": "eng_GB", 
+  "title": "The birth of your baby", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:15:03+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:50:41.322427+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "e45e43483f6d4b6e9424c1ee4ae6197f", 
+    "b8d4ef7f8d6d4c2bbb6ad7952b4109f8", 
+    "6a4101a12ed9444486940712892fb89f", 
+    "e64f87ef486e4d2fbeeac56bdb8e2fdc"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nWhen your baby is low down and ready to be born, your contractions will feel different. You will feel the pressure of your baby's head between your legs. With each contraction you may get 2 or 3 strong urges to push.\r\n\r\nWork with your body and push when you get a strong urge. With every push, your baby will move down a little. Try not to hold your breath, but take several little breaths when you're pushing.\r\n\r\nAt the end of the contraction, you may feel your baby slip back a bit. Do not worry. As long as your baby keeps on moving a little further each time, you are doing fine.\r\n\r\nWhen your baby's head is far down, you may feel a hot, stinging sensation. This will happen as the opening of your vagina starts to stretch around your baby's head.\r\n\r\nYour attendant will tell you when she can see your baby's head. You may need to stop pushing at this point to slow things down. \r\n\r\nTake short, panting breaths for the next 2 or 3 contractions. This helps make sure that your baby is born gently and slowly, and will help stop you tearing. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 49, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "birth-your-baby", 
+  "uuid": "41c276ad501641449dfd8672b2c53879"
+}

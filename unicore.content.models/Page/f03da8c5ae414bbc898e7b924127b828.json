@@ -1,0 +1,36 @@
+{
+  "subtitle": "Why wash my hands? ", 
+  "description": "Clean hands stop you getting sick", 
+  "language": "eng_GB", 
+  "title": "Why wash my hands?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:56:27+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:33:12.078597+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "3d1daf7884fb437488558c4b56dc9ed2", 
+    "04af3ad744684c18b2e03e9b1a6cedab", 
+    "af29be54c2304ec2960e2da37862d7af", 
+    "dc2b0396dc5345bca58cf7ef8e4a3a78", 
+    "3f0915c615284138bd252130dc26f884", 
+    "6de682eb18a047c983d240a248a8acc7"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\n You do not want to get sick while you are pregnant.\r\n\r\nWash your hands regularly with soap. Encourage your family to do it as well. Keeping your hands clean helps to prevent illnesses like pneumonia and diarrhoea.\r\n\r\nWash your hands:\r\n\r\n - \twhen you come home\r\n\r\n - \tafter you go to the toilet\r\n\r\n - \tafter dealing with animals\r\n\r\n - \tbefore cooking \r\n\r\n - \tafter handling raw eggs, meat or fish\r\n\r\n - \tbefore you eat\r\n\r\nHere is how to do it:\r\n\r\n - \tYou need clean water and soap\r\n\r\n - \tPut a good amount of soap on to your palm\r\n\r\n - \tRub both hands together, palm to palm, to make a lather\r\n\r\n - \tIf you are using a bar of soap, turn it round in your hands until you work up a good lather\r\n\r\n - \tClean between your fingers\r\n\r\n - \tMake sure you wash your wrists, hands and nails\r\n\r\n - \tContinue rubbing your hands, on both sides, for at least 15 seconds\r\n\r\n - \tWash the soap off your hands with clean, safe water\r\n\r\n - \tDry your hands using a clean towel\r\n\r\nYou could set up a wash stand near your cooking area or near the toilet to make it easy.\r\n\r\nJust by washing your hands, you can really reduce the risk of diseases like diarrhoea.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 79, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "why-wash-my-hands", 
+  "uuid": "f03da8c5ae414bbc898e7b924127b828"
+}

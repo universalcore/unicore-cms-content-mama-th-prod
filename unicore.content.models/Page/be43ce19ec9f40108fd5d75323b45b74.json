@@ -1,0 +1,35 @@
+{
+  "subtitle": "Why am I so tired? ", 
+  "description": "Tiredness is normal in pregnancy", 
+  "language": "eng_GB", 
+  "title": "Why am I so tired?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:47:09+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:21:32.599181+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "46e7a702a81c4e2c8b3b0e1da96856df", 
+    "bff09e01129e422bb055b709a0c938b0", 
+    "6977c053a005469c8f2c605c4177339a", 
+    "6de682eb18a047c983d240a248a8acc7", 
+    "e64f87ef486e4d2fbeeac56bdb8e2fdc"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nYes, it is normal to be tired  - you are not alone! Many mothers feel the same. Being pregnant puts a strain on your whole body. This can make you very tired. Even if you like to stay up late, you might struggle to stay awake past the early evening now.\r\n\r\nIn the early stages of pregnancy, you may feel constantly tired. Your body is using a lot of energy and food to grow your tiny baby. By 3 months you will feel less tired.\r\n\r\nYour hormone levels and need for energy are also changing fast. Your blood sugar and blood pressure tend to be lower too. This all adds to tiredness.\r\n\r\nHaving low iron levels can also make you feel tired. Try to take a daily iron tablet. This will stop you getting anaemic, when you do not have enough iron in your blood. If your iron levels are very low, you will feel even more tired and lacking in energy.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 95, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "why-am-i-so-tired", 
+  "uuid": "be43ce19ec9f40108fd5d75323b45b74"
+}

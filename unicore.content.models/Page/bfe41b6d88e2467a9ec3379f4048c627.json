@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "About", 
+  "primary_category": null, 
+  "created_at": "2014-10-10T11:27:22.691198+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-03T12:37:47.958967+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "bfe41b6d88e2467a9ec3379f4048c627", 
+  "content": "The Mobile Alliance for Maternal Action (MAMA) is a global movement that seeks\nto use mobile technologies to improve the health and lives of mothers in\ndeveloping nations. This site is dedicated to MAMA\u2019s activities in South\nAfrica. MAMA is making a three-year, $10 million investment to create and\nstrengthen programmes in three countries \u2013 Bangladesh, India and South Africa\n\u2013 and to enhance global capability of new and existing mobile health\ninformation programmes for moms in those countries and beyond. MAMA is a\npartnership between the U.S. Agency for International Development (USAID),\nJohnson & Johnson, the United Nations Foundation, and BabyCenter and operates\nthrough a secretariat hosted by the mHealth Alliance. It was launched on\nMother\u2019s Day 2011 by U.S. Secretary of State Hillary Clinton. MAMA\u2019s efforts\nalign with the UN Secretary-General\u2019s Every Woman Every Child campaign and\nefforts to achieve Millennium Development Goals (MDGs) 4 and 5. To this end,\nMAMA engages an innovative global community to deliver vital health\ninformation to new and expectant mothers through mobile phones. **How to use\nMAMA** Mothers are invited to register for the service by indicating their\nexpected due-date, or the birthday of their recently-born child, and receive\nweekly health messages and reminders during the pregnancy and up to the\nchild\u2019s first birthday. Timed messages include tips on everything from proper\nnutrition, how to keep the baby warm after birth, and breastfeeding. Improving\nthe health and status of mothers acts as a positive multiplier. When mothers\nsucceed, they lift themselves out of poverty, and they lift their families and\ntheir communities along with them. Mobile phones are one of the innovative\ntools they can use. MAMA is a single resource for mothers to find life-saving\ninformation on maternal and infant health, up-to-date support on HIV+\npregnancies and vital Help numbers. **Content Credits** Pages have been\ndonated for publication on this mobisite by BabyCenter, a leading maternal and\ninfant health resource. Images \u00a9Thinkstock.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": true, 
+  "position": 41, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "about", 
+  "uuid": "bfe41b6d88e2467a9ec3379f4048c627"
+}

@@ -1,0 +1,33 @@
+{
+  "subtitle": "When will my baby crawl?", 
+  "description": "When she is 6-9 months old", 
+  "language": "eng_GB", 
+  "title": "When will my baby crawl?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:30:53+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:42:12.368411+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "34e1ac7f8e2f4e2383b130aba61de040", 
+    "3b003cb5aa1d403da07239571087e5fc", 
+    "b41351a427a2474fa8e0b90b341990c0"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nCrawling is your baby\u2019s next big step after sitting up. It is usually, but not always, a key step towards being able to walk.\r\n\r\nYour baby may start learning to crawl when she is between 6 and 9 months old. This means that she will probably be crawling well by the time she is 1 year old.\r\n\r\nBut not all babies crawl. You may find that your baby likes to shuffle around on her bottom instead of crawling on her hands and knees. Or she may like to move around on her belly.\r\n\r\nSome babies never crawl at all. Instead, they move straight to pulling themselves up, standing, and walking. It is getting active that is important, not how your baby does it.\r\n\r\nBabies develop differently. If you are worried that your baby is slow to start crawling or moving around, talk to a health worker. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 8, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "when-will-my-baby-crawl", 
+  "uuid": "0f850f499ade46e89a12584f78006477"
+}

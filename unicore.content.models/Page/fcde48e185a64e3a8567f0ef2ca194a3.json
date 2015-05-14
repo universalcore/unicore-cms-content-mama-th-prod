@@ -1,0 +1,33 @@
+{
+  "subtitle": "What helps in labour?", 
+  "description": "Keep upright and move around", 
+  "language": "eng_GB", 
+  "title": "What helps in labour?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:14:15+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:48:46.230182+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "11f29887cb264fe6ae2fb9f6d4129732", 
+    "69bff69edb0b4fc8bd1ad6f78b79f688", 
+    "c442f70c8c354f57a9492c93e7cd1f76"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nWhen your labour starts, you may feel restless. Move around and keep busy while contractions are easy to cope with. Tidy up, pack your bag, get everything ready for when the baby comes. Go for a walk, eat a small meal, chat with a friend.\r\n\r\nAs your contractions get stronger, focus on them. Think about what is happening to your body and your baby. Relax and breathe deeply. \r\n\r\nYou may think you will be most comfortable lying on the bed. But keeping as upright as possible will help labour to progress.\r\n\r\nYou could try sitting on a chair with a cushion, or kneeling on a cushion and leaning forward on a chair or a bed for support.\r\n\r\nYou could kneel on all fours, or kneel on one leg with the other foot on the floor. This opens the pelvis (the big bones in your lower belly area) and makes more space for your baby.\r\n\r\nTry rocking your hips backwards and forwards or in a circle. This helps your baby through your pelvis and is comforting. Just keep rocking, leaning forwards during contractions and straightening up in between.\r\n\r\nHave short rests, sit or lie down. If your contractions start at night, try to stay in bed and relax for as long as possible.\r\n\r\nYou could also ask your birth attendant to massage your back with each contraction. This will help you to cope with the contractions as they get stronger and longer.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 52, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-helps-labour", 
+  "uuid": "fcde48e185a64e3a8567f0ef2ca194a3"
+}

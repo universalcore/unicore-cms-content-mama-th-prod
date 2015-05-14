@@ -1,0 +1,32 @@
+{
+  "subtitle": "Does she have diarrhoea?", 
+  "description": "Check for loose stools, fever and weight loss", 
+  "language": "eng_GB", 
+  "title": "Does she have diarrhoea?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:26:22+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:15:25.046680+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "c722f8620e684a92b954b6f20d6b696e", 
+    "1878de72e961404b88affddce0ea8c41"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nYour baby may have diarrhoea if:\r\n\r\n - \tShe passes smelly, watery, stools streaked with sticky smelly fluid, called mucus.\r\n\r\n - \tShe passes these stools frequently.\r\n\r\n - \tShe has a fever.\r\n\r\n - \tShe appears to be losing weight.\r\n\r\nYour baby can get diarrhoea if she eats rotten food or drinks dirty water. \r\n\r\nNewborns often have a lot of bowel movements, sometimes up to 5 times a day in the first month, but this is unlikely to be diarrhoea.\r\n\r\nSometimes babies pass stools after every breastfeeding session. This is because, as her stomach fills up with milk, her bowels get stimulated.\r\n\r\nBreastfed babies usually have yellowish stools which smell sweet, and they tend to be soft. After they reach 1 month old, most babies have 1 or 2 bowel movements a day.\r\n\r\nYour baby\u2019s stools may change at 6 months when she starts solid food. But bowel movements will settle down once your baby gets used to her new food. \r\n\r\nSo, notice your baby's stools. If your baby passes smelly, watery and mucus-streaked stools more often, has a fever or seems to be losing weight, then your baby probably has diarrhoea. Take her to a health worker.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 25, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "does-she-have-diarrhoea", 
+  "uuid": "b4c6834509f54db7847d7c83ca76dec4"
+}

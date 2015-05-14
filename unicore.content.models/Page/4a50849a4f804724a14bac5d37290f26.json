@@ -1,0 +1,33 @@
+{
+  "subtitle": "Why do I need to rest?", 
+  "description": "Growing a baby is hard work!", 
+  "language": "eng_GB", 
+  "title": "Why do I need to rest?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:52:30+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:29:39.905501+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "46e7a702a81c4e2c8b3b0e1da96856df", 
+    "a96f2277a1884f90a9197b8b6f5bac0c", 
+    "e64f87ef486e4d2fbeeac56bdb8e2fdc"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nGrowing a baby can make you feel very tired. Rest as often as possible. Explain to your boss, and your family that your body is working hard to grow your baby. Only do the most important tasks at home, and ask your family to help.\r\n\r\nAs your baby grows inside you, he will need more food. Slowly increase the amount of food you eat as your belly grows. Have an extra handful of food with each meal. Eat small amounts, often through the day. Carry some food with you when you go to work.\r\n\r\nAs your baby grows, he will start to press on your bladder, the place where your urine collects. This will make you want to pass urine more often, perhaps disturbing your sleep. Try not to drink anything for an hour before you go to bed. This may help. Drink plenty of clean, safe water throughout the day, though.\r\n\r\nYou may have leg cramps. Your leg muscles are carrying the increasing weight of your baby. This can make your legs ache or feel very tired. If you wake because of a cramp, try to stretch the muscle. Straighten your leg and flex your ankles and toes. You can also try massaging the cramped muscle. Try not to stand for long periods or sit with your legs crossed. \r\n\r\nSleep on your left side, with a cushion or a pad of cloth between your knees. This may help you to get more comfortable at night.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 84, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "why-do-i-need-rest", 
+  "uuid": "4a50849a4f804724a14bac5d37290f26"
+}

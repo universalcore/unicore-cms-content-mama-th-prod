@@ -1,0 +1,32 @@
+{
+  "subtitle": "My baby is on the move! ", 
+  "description": "Make sure he plays in a safe area", 
+  "language": "eng_GB", 
+  "title": "My baby is on the move!", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:31:24+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:43:00.085963+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "814c34f27b5349fbbcabafb2aab672dc", 
+    "c79c358eb4ff4b1a822a9b7064144556"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nNow your baby is mobile, it is time to make sure that he can play safely.\r\n\r\nMake sure your baby cannot reach buckets of water or hot stoves or fires.\r\n\r\nWedge cupboard doors shut and move boxes and baskets high up where he cannot reach them.\r\n\r\nCleaning materials like bleach and washing powder can harm a baby, so lock these away.\r\n\r\nGo down on your hands and knees so you can see the world from your baby\u2019s angle. Dangling cords or plants may tempt him to reach up and pull things over on himself.\r\n\r\nPut purses and shopping up high so he cannot reach them. Even simple everyday things like lipstick and make-up can harm him.\r\n\r\nMake sure that medicines and tablets are out of his reach.\r\n\r\nKeep him away from latrines and dirty washing.\r\n\r\nThe ground can also be home to worms. If you can, clean the floor with soap and water before your baby plays there. This will help keep him safe, and stop him getting worms. If you cannot clean the floor, put down a large, clean blanket or mat.\r\n\r\nWhen your baby is standing and walking, make sure you cover his feet with loose socks or slippers. This will protect him from worms\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "my-baby-move", 
+  "uuid": "38507aab2312445dbea773a3f15a0304"
+}

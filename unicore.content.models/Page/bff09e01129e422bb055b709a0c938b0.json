@@ -1,0 +1,38 @@
+{
+  "subtitle": "Warning signs", 
+  "description": "When to get medical help", 
+  "language": "eng_GB", 
+  "title": "Warning signs", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:53:35+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:31:28.836009+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "804d80d2502a494ca6e17ad0259bb83e", 
+    "a96f2277a1884f90a9197b8b6f5bac0c", 
+    "c18ae5de25b34be28ff33f1964f901aa", 
+    "0ef317e4268644618d2a16418c0bdeb6", 
+    "6977c053a005469c8f2c605c4177339a", 
+    "6de682eb18a047c983d240a248a8acc7", 
+    "e64f87ef486e4d2fbeeac56bdb8e2fdc", 
+    "c442f70c8c354f57a9492c93e7cd1f76"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nYour body changes in many ways in pregnancy, and it is normal to wonder if you need to worry about any of these changes.\r\n\r\n**This is normal** Are you tired one minute, fine the next, feeling nauseous in the mornings, getting indigestion, having to pass urine more often? Is your skin changing? Feeling breathless? Welcome to  pregnancy!\r\n\r\n**These are warning signs** See a health worker if you have any of these feelings:\r\n\r\n - \tPain in your belly\r\n\r\n - \tA fever\r\n\r\n - \tBlurred vision and you are seeing spots in front of your eyes\r\n\r\n - \tFluid leaking from your vagina\r\n\r\n - \tPain when passing urine\r\n\r\n - \tIf you are past 5 months in your pregnancy, and your baby has stopped kicking or is kicking much less\r\n\r\n - \tIf you have heavy bleeding or bleeding with pain. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 82, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "warning-signs", 
+  "uuid": "bff09e01129e422bb055b709a0c938b0"
+}

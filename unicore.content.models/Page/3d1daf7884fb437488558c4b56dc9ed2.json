@@ -1,0 +1,32 @@
+{
+  "subtitle": "How to cook food safely", 
+  "description": "Follow this guide", 
+  "language": "eng_GB", 
+  "title": "How to cook food safely", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:10:03+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:42:11.486910+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "85346b03dfca4f29ab5807da9035f389", 
+    "f03da8c5ae414bbc898e7b924127b828"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nBad or stale food can make you sick. Try to cook fresh meals every day. Keep your cooking and eating area clean and store food in a cool, dry place.\r\n\r\n - \tCook all meat and chicken well, until it has no pink bits.\r\n\r\n - \tCook eggs well, until they are firm. Boil milk to kill any germs.\r\n\r\n - \tIf you get your food from food stalls, select stalls with clean work areas. Make sure that the stall you choose is popular, so that you can be sure that food has not been sitting out for too long and has been safe for others. \r\n\r\n - \tWash your hands with soap before you prepare meals, after using the toilet and after handling animals.\r\n\r\n - \tWash all dishes and cooking areas with soapy water to get rid of any food remains.\r\n\r\nIf you have sores or cuts on your hands, keep them clean and covered with a clean cloth.\r\n\r\nKeep animals away from the cooking area. Animals can spread germs and make you sick.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 65, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-cook-food-safely", 
+  "uuid": "3d1daf7884fb437488558c4b56dc9ed2"
+}

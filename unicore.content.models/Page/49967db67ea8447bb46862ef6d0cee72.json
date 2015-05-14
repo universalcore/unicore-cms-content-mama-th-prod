@@ -1,0 +1,29 @@
+{
+  "subtitle": "She cries all night and sleeps all day!", 
+  "description": "She cries all night and sleeps all day!", 
+  "language": "eng_GB", 
+  "title": "YoungMother: Help!", 
+  "primary_category": "e2a287abe22a47ef8e85c287ad2e5648", 
+  "created_at": "2014-10-10T10:58:01+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-03T12:37:37.398623+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "49967db67ea8447bb46862ef6d0cee72", 
+  "content": "Brought to you by MAMA\r\n\r\nAt the hospital my baby did not cry much. It started when we got home. She cried right through that first night.\r\n\r\nI was breastfeeding her fine, I had no problem with that. I knew which positions to use. The nurses had shown me at the clinic. But she just cried all night, every night. She would sleep all day and cry all night. \r\n\r\nI came to fear the nights. She screamed like she was in pain. I couldn\u2019t leave her alone. I sat with her all night. It would tear my heart apart. I thought I would go mad from lack of sleep. \r\n\r\nOther moms tell me I should have done things differently. I should have kept her awake during the day to make her more tired at night. Or I should have just left her to cry.\r\n\r\nBut I was 18 at the time and I just did the best I could.\r\n\r\nThen when she reached 6 months, the crying stopped. That was the first time I started to enjoy being a mother!\r\n\r\nShe turns 2 this year and she is doing well! And I am doing well. The early days were hard. But we both got through it all okay!\r\n\r\n**MAMA HELP: Every baby is different but all babies cry. Listening to your baby cry for hours can make you worried, even angry. You may not be able to stop him from crying. But remain calm and do your best to soothe him until he settles down. If you know he is not hungry, tired, wet or in pain, get a second opinion from someone you trust. Together you can decide if your baby needs to see a doctor.** \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": true, 
+  "position": 3, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "youngmother", 
+  "uuid": "49967db67ea8447bb46862ef6d0cee72"
+}

@@ -1,0 +1,32 @@
+{
+  "subtitle": "Eat more food now!", 
+  "description": "You need more energy when breastfeeding", 
+  "language": "eng_GB", 
+  "title": "Eat more food now!", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:23:21+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:05:22.842806+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "8dce9b89c7204920bdc0c36c39083514", 
+    "c5b467334357406d9dda47cdda586bd5"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nBreastfeeding can make you very hungry! You will need to eat more than normal. Your body is very good at making milk, but if you do not eat enough you may feel tired and faint. \r\n\r\nTry to eat lots of fresh fruits like oranges, mangoes, water melon, pineapples, papayas and vegetables like Sukuma wiki, Cabbages, tomatoes, onions, kunde, pumpkin leaves, carrots, peas. Eating foods of a variety of colours, so you get plenty of vitamins and minerals. Eat energy-giving food like ugali, rice, chapati, bananas, potatoes, cassava. Eat protein, found in eggs, fish, chicken, milk, beans and meat. Try to have milk or nuts each day. Eat a good variety of foods, and your body will get all it needs to feed your baby well.\r\n\r\nTry to eat 3 main meals a day at regular times. Eat plenty of snacks throughout the day, to keep up your energy levels. Good snacks are dried fruit, nuts, fresh fruit and vegetables and seeds.\r\n\r\nBreastfeeding can make you feel thirsty. Have a drink before you feed your baby. Clean, safe water is good. You do not have to drink milk to make milk, but you do need to drink plenty of clean, safe water. Do not drink too much coffee, cola or fizzy drinks. Just 1 or 2 glasses of these a day is enough. \r\n\r\nIf you do not want to eat, it could be a sign that you need extra support. If it is a struggle to eat, and you are forcing yourself, talk to your health worker. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 35, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "eat-more-food-now", 
+  "uuid": "37ff17ad28e24bf8a3b0505176011ecf"
+}

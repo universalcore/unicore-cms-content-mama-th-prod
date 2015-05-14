@@ -1,0 +1,32 @@
+{
+  "subtitle": "When will he roll over?", 
+  "description": "When he is 6-7 months old", 
+  "language": "eng_GB", 
+  "title": "When will my baby roll over?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:30:27+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:41:21.658596+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "b41351a427a2474fa8e0b90b341990c0", 
+    "0f850f499ade46e89a12584f78006477"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nRolling over means that your baby can flip from lying on his back to being on his belly, or from his belly to his back.\r\n\r\nHe will probably be able to roll over when he is about 6 or 7 months old, when his neck and arm muscles are strong enough.\r\n\r\nIf you put your baby on his belly at around 3 months, he may be able to lift his head and shoulders off the floor using his arms. This prepares him for rolling over.\r\n\r\nYou can encourage your baby by playing with him. Put him on his belly and wiggle a toy to one side of him. If he manages to roll towards the toy, smile and say \"Well done!\"\r\n\r\nYou never know when your baby will first roll over. To be safe, do not leave him alone anywhere he could fall off and hurt himself.\r\n\r\nIf your baby is not rolling over by 7 months old, you could talk to a health worker. Do not worry too much though: babies develop skills differently, and some more quickly than others. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 10, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "when-will-my-baby-roll-over", 
+  "uuid": "cae81cf25bd74e41bfacb0b4ef67b5a1"
+}

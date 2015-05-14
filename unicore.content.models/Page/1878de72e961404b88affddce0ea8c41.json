@@ -1,0 +1,33 @@
+{
+  "subtitle": "My baby has diarrhoea", 
+  "description": "How can I care for her?", 
+  "language": "eng_GB", 
+  "title": "My baby has diarrhoea", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:26:44+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:15:51.804553+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "c722f8620e684a92b954b6f20d6b696e", 
+    "b4c6834509f54db7847d7c83ca76dec4", 
+    "e64f87ef486e4d2fbeeac56bdb8e2fdc"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIf your baby has diarrhoea, she needs to replace the fluids she is losing, or she will get dehydrated. This means that her body does not have enough water to keep going. Keep offering your breast and let her feed as often as she wants.\r\n\r\nDo not give her any fruit juice, cola or sugary drinks. These drinks can make diarrhoea worse.\r\n\r\n**If she is younger than 6 months**, she does not need any water. Breastmilk will give her all she needs.\r\n\r\n**If she is older than 6 months**, give her small sips of clean, safe water between feeds. If you can, try giving her sips of oral rehydration solution (ORS), a few times an hour. ORS is a powder which is dissolved in a litre of clean, boiled and cooled water. You can store this and use it over 8-12 hours. Give your baby 15-20 teaspoons of ORS after each loose stool. Spread the teaspoons out over half an hour.\r\n\r\nTake your baby to a health worker as soon as possible if:\r\n\r\n - \tshe has diarrhoea for more than 1 day\r\n\r\n - \tshe has dry skin or lips\r\n\r\n - \tshe is passing water that is dark yellow and she is passing water less often\r\n\r\n - \tthe soft spot in her head is sunken\r\n\r\n - \t she refuses to drink, has blood in her stools or has a swollen tummy\r\n\r\n - \tshe vomits for more than a day, or has a fever which lasts more than a day.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 24, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "my-baby-has-diarrhoea", 
+  "uuid": "1878de72e961404b88affddce0ea8c41"
+}

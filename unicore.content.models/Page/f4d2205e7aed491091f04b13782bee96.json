@@ -1,0 +1,34 @@
+{
+  "subtitle": "Where to have my baby?", 
+  "description": "A hospital is safest", 
+  "language": "eng_GB", 
+  "title": "Where to have my baby?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:12:00+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:45:52.673515+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "5a95c58a6d094cd7be0a8774e5c17b28", 
+    "ae6cf05731994ae59eab1443fd8008ec", 
+    "b647ee5a135d416f91476a4f62ee4c64", 
+    "c442f70c8c354f57a9492c93e7cd1f76"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nAs your baby\u2019s arrival time gets closer, it is time to make plans.\r\n\r\nA health facility is the safest place to have your baby. Work out how long it will take to get there. Talk with your family about transport and decide who you will have with you. Choose someone you trust.\r\n\r\nIf your baby comes too quickly or you cannot get to a health facility in time for the birth:\r\n\r\n - \tIt is vital to have a skilled attendant. Make sure your family knows how to contact the attendant. Your attendant may have a birth kit. It will contain a plastic sheet, gloves, clean string and tools for cutting your baby's cord. \r\n\r\n - \tIf you cannot get a birth kit, find a clean sheet to have your baby on and 2 cloths, one to dry your baby and one to wrap her in. Have a clean, sharp knife or a clean pair of scissors ready. \r\n\r\n - \tYour attendant must wash her hands and you must wash between your legs. Get plenty of clean, safe, boiled water and soap ready.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 58, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "where-have-my-baby", 
+  "uuid": "f4d2205e7aed491091f04b13782bee96"
+}

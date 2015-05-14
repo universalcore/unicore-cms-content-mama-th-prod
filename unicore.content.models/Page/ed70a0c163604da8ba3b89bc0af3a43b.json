@@ -1,0 +1,31 @@
+{
+  "subtitle": "Why get him vaccinated?", 
+  "description": "They protect against diseases", 
+  "language": "eng_GB", 
+  "title": "Why get him vaccinated?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:27:26+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:16:52.981945+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "8dce9b89c7204920bdc0c36c39083514"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nGetting your baby vaccinated is one of the best things you can do as a mother. \r\n\r\nRemember: you and your baby need to get vaccinated before you get sick. A vaccination cannot cure the disease once it has started.\r\n\r\nIf you and your baby are vaccinated, it means that you can fight serious illnesses if you come into contact with them. You cannot get vaccinated if you are already sick, so do it when you are both well.\r\n\r\nVaccination helps your baby to fight off some of the most dangerous illnesses. This will protect you both from suffering and distress. No mother likes seeing her baby sick. \r\n\r\nYour baby needs to get vaccinated while he is well and it is important that you get it done at the right time.\r\n\r\nYour baby will need more than 1 dose of some vaccinations. If you want to know what vaccinations your baby needs and when, talk to a health worker. They will tell you when to get your baby vaccinated. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 21, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "why-get-him-vaccinated", 
+  "uuid": "ed70a0c163604da8ba3b89bc0af3a43b"
+}

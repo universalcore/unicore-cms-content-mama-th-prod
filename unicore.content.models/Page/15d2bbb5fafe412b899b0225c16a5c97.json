@@ -1,0 +1,32 @@
+{
+  "subtitle": "Can I avoid malaria? ", 
+  "description": "Here is how to protect yourself", 
+  "language": "eng_GB", 
+  "title": "Can I avoid malaria?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:58:50+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:35:52.863455+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "3f0915c615284138bd252130dc26f884", 
+    "6de682eb18a047c983d240a248a8acc7"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nMalaria can make you and your baby very sick. You may become anaemic - this is when you do not have enough iron in your blood, which makes you short of breath and weak. Here are some ways to protect yourself and your baby from malaria:\r\n\r\n - \tSleep under an insecticide-treated bed net, even if the weather is hot.\r\n\r\n - \tMosquitoes are attracted to dark colours. Wear light-coloured clothing, especially if you go out in the evening.\r\n\r\n - \tStop mosquitoes getting to your skin by wearing long sleeves and full-length clothes. \r\n\r\n - \tA mosquito repellent on your skin will help to keep mosquitoes away. Use an indoor spray or mosquito coils in the house as well. \r\n\r\n - \tMosquitoes live in stagnant water, rotting leaves and damp areas. Check that there are none of these around your home.\r\n\r\nThe health facility may give you medicine to take to help prevent malaria. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 74, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "can-i-avoid-malaria", 
+  "uuid": "15d2bbb5fafe412b899b0225c16a5c97"
+}

@@ -1,0 +1,32 @@
+{
+  "subtitle": "How much will my baby sleep? ", 
+  "description": "Up to 18 hours a day!", 
+  "language": "eng_GB", 
+  "title": "How much will my baby sleep?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:25:19+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:12:45.807612+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "11bb7e6c93f84e2cb5878acf2764700f", 
+    "f2a9b97149da468ba7f876271ce1e4ef"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nNewborn babies sleep a lot! You can expect your baby to be asleep for up to 18 hours a day for the first few weeks.\r\n\r\nHe may not sleep for more than 3 or 4 hours at once, day or night. This means that you will not be sleeping for long either.\r\n\r\nYour baby sleeps for shorter amounts of time than an adult, and he sleeps much more lightly. This type of sleep is a normal part of his brain development.\r\n\r\nHe will sleep more deeply, and for longer, from when he is about 6 to 8 weeks old. Most babies then begin to sleep for less time during the day and longer at night. However, they will still wake up to feed during the night.\r\n\r\nSome babies sleep through the night when they are as young as 8 weeks old. But it\u2019s more likely that your nights will be interrupted for at least the first 5 or 6 months. Try to sleep when your baby does. Take naps during the day. This will keep you energised.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 29, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-much-will-my-baby-sleep", 
+  "uuid": "67a7122eef9941fa9cda35a090a4dfd4"
+}

@@ -1,0 +1,33 @@
+{
+  "subtitle": "My baby is getting teeth!", 
+  "description": "Teeth come between 3 months and 1 year", 
+  "language": "eng_GB", 
+  "title": "My baby is getting teeth!", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:32:10+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:44:58.863223+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "70cec4615e224e9c9acdd021605d103c", 
+    "07835775917d451285dc271d8dc3a52a", 
+    "c7a45989e13544009f74da04d02df778"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nMost babies get their first tooth at around 6 months. But babies can get their first tooth any time between 3 months and 1 year. It usually appears on the bottom, at the front.\r\n\r\nIf your baby is teething, you may notice these signs:\r\n\r\n - \the has red and swollen gums and his face and cheeks are red\r\n\r\n - \the is dribbling a lot\r\n\r\n - \the tries to rub his gums and his ear on the same side as a tooth is growing\r\n\r\n - \the wakes up in the night because of the pain\r\n\r\nWhen your baby is 2 years old, he should have a full set of 20 baby teeth.\r\n\r\nIt is best to start brushing your baby's teeth as soon as they appear. Use a soft toothbrush and a bit of toothpaste, if you have it. Try to clean both the surface of your baby's teeth and the gums.\r\n\r\nSome teething babies find it difficult to feed. When your baby sucks during feeding, more blood rushes to the swollen gums. The gums are very sensitive. This is why he may turn away from your breast.\r\n\r\nUnderstandably, teething makes babies irritable and unsettled. Do your best to cuddle and comfort him.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "my-baby-getting-teeth", 
+  "uuid": "34e1ac7f8e2f4e2383b130aba61de040"
+}

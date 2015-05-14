@@ -1,0 +1,37 @@
+{
+  "subtitle": "Should I eat differently?", 
+  "description": "You need foods in many colours", 
+  "language": "eng_GB", 
+  "title": "Should I eat differently?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:09:27+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:40:26.217594+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "1e51ab9ae7314d27b5e3aa49c32af74c", 
+    "46e7a702a81c4e2c8b3b0e1da96856df", 
+    "2f0ccf756f104274bb5debe5a11573f1", 
+    "6b78a6ddb59842c2b85168b9dbf14b30", 
+    "e64f87ef486e4d2fbeeac56bdb8e2fdc", 
+    "37ff17ad28e24bf8a3b0505176011ecf", 
+    "3d1daf7884fb437488558c4b56dc9ed2"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nNow you are pregnant, it is important to try to eat well so your baby will grow well. You and your growing baby need lots of different foods. \r\n\r\nA simple way to think about it is to eat lots of different coloured foods! \r\n\r\nYou could talk to your family about the food you need.\r\n\r\nTry to eat some of each of these food types every day:\r\n\r\n - \tFruit and vegetables. Food like oranges, mangoes, water melon, pineapples, papayas, sukuma wiki, cabbages, tomatoes, onions, kunde, pumpkin leaves, carrots, peas. These protect your baby from being born with a problem.\r\n\r\n - \tStarchy foods. These include ugali, rice, chapati, bananas, potatoes, cassava. These foods give you energy.\r\n\r\n - \tFoods rich in protein. These include eggs, fish, chicken, milk, beans and meat. These are body building foods.\r\n\r\n - \tCalcium-rich and dairy foods. These include milk, and nuts. They help your baby grow strong bones.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 67, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "should-i-eat-differently", 
+  "uuid": "85346b03dfca4f29ab5807da9035f389"
+}

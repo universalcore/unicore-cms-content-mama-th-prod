@@ -1,0 +1,32 @@
+{
+  "subtitle": "How can I feel less nauseous?", 
+  "description": "Eat little and often", 
+  "language": "eng_GB", 
+  "title": "How can I feel less nauseous?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:47:45+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:21:59.791439+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "85346b03dfca4f29ab5807da9035f389", 
+    "bff09e01129e422bb055b709a0c938b0"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nFeeling like vomiting? This is normal. Lots of women feel like this in pregnancy.\r\n\r\nEveryone feels different. Some feel just a bit nauseous in the morning, and some find certain smells make them feel nauseous all day. Most women feel better by 3 months, but it could last longer. \r\n\r\nTry changing what you eat. Choose foods without much fat, and with no strong smell or taste. You could avoid spicy food, too. Some women find they can eat cold food but not hot food.\r\n\r\nIf you feel nauseous mostly in the mornings, it might help if you can eat some plain rice, or a biscuit, before you get up. \r\n\r\nAlso, try eating small meals, but more often.\r\n\r\nA ginger biscuit, some ginger or lemon grated into a cup of tea or even just the smell of freshly grated ginger or lemon can help. You could also try mint tea, or chewing mints.\r\n\r\nExplain to your family and friends how you are feeling and what you need. Do not feel guilty about asking for help with things like shopping, cooking and other chores.\r\n\r\nFeeling nauseous and vomiting is normal in pregnancy, but if you are vomiting many times a day, if you are unable to eat and drink without vomiting, and if you are losing weight, you may need treatment by a health worker.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 94, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-can-i-feel-less-nauseous", 
+  "uuid": "368eec34e0094c30ae200c687e7f3d2f"
+}

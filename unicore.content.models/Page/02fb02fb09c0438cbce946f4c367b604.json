@@ -1,0 +1,32 @@
+{
+  "subtitle": "Why have a tetanus vaccination? ", 
+  "description": "Giving birth puts you at risk", 
+  "language": "eng_GB", 
+  "title": "Why have a tetanus vaccination?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:59:13+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:36:23.402601+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "6977c053a005469c8f2c605c4177339a", 
+    "d77fd49d1e224fca871c341342ecae88"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nTetanus is a serious disease and is dangerous for both pregnant women and newborn babies. You should get vaccinated so that you and your baby do not get tetanus.\r\n\r\nYou can get tetanus through a deep wound, a cut or a burn. Giving birth puts you and your baby at risk of tetanus. Having a tetanus vaccination can protect you both. \r\n\r\nYou may be able to get a tetanus vaccination at a health facility. Ask your health worker about it. You will need 1 vaccination at your first visit and another at least a month later. \r\n\r\nYou will get the vaccination by injection. Your arm may get a bit red and swollen where the needle was put in. You might feel a bit unwell, but it will not last long. Put something cold on your arm, if the area hurts, and get some rest.\r\n\r\nVaccinations will protect you from germs, but they do not work if you already have an illness. So get vaccinated when you are not sick. Do not wait till you are sick because then it is too late and vaccination will not help you.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 73, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "why-have-tetanus-vaccination", 
+  "uuid": "02fb02fb09c0438cbce946f4c367b604"
+}

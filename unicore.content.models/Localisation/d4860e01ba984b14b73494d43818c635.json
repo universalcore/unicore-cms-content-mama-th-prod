@@ -1,0 +1,17 @@
+{
+  "uuid": "d4860e01ba984b14b73494d43818c635", 
+  "logo_image_host": "http://thumbor.unicore.io", 
+  "locale": "swa_KE", 
+  "image": null, 
+  "logo_text": "Ushauri kutoka kwa wataalamu na wazazi", 
+  "logo_image": null, 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "logo_description": "Ushauri kutoka kwa wataalamu na wazazi", 
+  "image_host": "http://thumbor.unicore.io"
+}

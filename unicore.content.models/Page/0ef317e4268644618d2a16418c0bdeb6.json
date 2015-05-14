@@ -1,0 +1,33 @@
+{
+  "subtitle": "Why do I get headaches?", 
+  "description": "Pregnancy hormones can cause them", 
+  "language": "eng_GB", 
+  "title": "Why do I get headaches?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:48:28+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:22:25.223268+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "46e7a702a81c4e2c8b3b0e1da96856df", 
+    "bff09e01129e422bb055b709a0c938b0", 
+    "e64f87ef486e4d2fbeeac56bdb8e2fdc"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIt is common to get headaches during pregnancy, particularly in the first 3 months.\r\n\r\nHeadaches may be caused by pregnancy hormones. Feeling tired or stressed can tense your muscles and give you a headache. Missing meals and feeling hungry might bring on a headache. Or having more sleep than usual, or too little sleep. \r\n\r\nHere are some things you can do: \r\n\r\n - \tMake sure you can take a break during the day and rest. Explain to your family you need more rest while your body is growing a baby. Sit or lie down somewhere quiet, and sleep if you need to.\r\n\r\n - \tDip a cloth in warm, clean water and squeeze out to make a warm pad. Put it around your eyes and nose. Or you could try a cool cloth on your forehead or at the base of your neck.\r\n\r\n - \tAsk someone to massage your neck and shoulders.\r\n\r\n**Danger signs?** Headache, blurred vision and pain under your ribs can be signs of high blood pressure. Go to see a health worker as soon as you can if you feel like this.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 93, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "why-do-i-get-headaches", 
+  "uuid": "0ef317e4268644618d2a16418c0bdeb6"
+}

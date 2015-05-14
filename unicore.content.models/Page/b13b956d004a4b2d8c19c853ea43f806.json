@@ -1,0 +1,33 @@
+{
+  "subtitle": "What if I'm living with HIV?", 
+  "description": "You can protect your baby from HIV", 
+  "language": "eng_GB", 
+  "title": "What if I am living with HIV?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:57:38+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:34:55.601599+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "c5b467334357406d9dda47cdda586bd5", 
+    "2e99df5f90fc434eb93302f15da4680b", 
+    "a90141a8dbaa4c4aabe511a7d984d34b"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIf you are living with HIV, you are not alone; lots of pregnant women are living with HIV. But you can prevent it being passed to your baby with the right care during pregnancy.\r\n\r\nIf you have not been tested for HIV yet, you may be able to get tested at a health facility. Only you will know the results, but you could take a friend with you for support.\r\n\r\nIf your first HIV test was negative you will be offered another test later in pregnancy. Please take it if you can. You can avoid passing HIV to your baby with the right care.\r\n\r\nIt can be scary to find out you have HIV. Give yourself time to get used to it. No one can see it and lots of pregnant women are living with it. Medicine will help to prevent transmission of HIV to your baby. Some health facilities offer this medicine free. This medicine is offered in government and faith-based health facilities.\r\n\r\nYou can lead a normal life if you take all your medicines and look after yourself. \r\n\r\nYou will need medicines called antiretrovirals (ARVs). ARVs help you live a healthy life. ARVs also help to make sure that HIV does not spread to your baby. \r\n\r\nYou will be welcome at the antenatal clinic. Your health worker will do tests to make sure you do not have any infections that will damage your health or the health of the baby growing inside you.\r\n\r\nYou may also be given medication so that you do not get malaria and many other infections. \r\n\r\nYour baby will be given a special test to check that he did not get with HIV while you were pregnant and giving birth.\r\n\r\nIf you are living with HIV, then it is important to give birth in a health facility because staff know how to protect your baby from getting HIV during the birth.\r\n\r\nDo not give birth at a traditional birth attendant\u2019s home, because they often do not know how to protect you, your baby and themselves from HIV.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 76, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-if-i-am-living-hiv", 
+  "uuid": "b13b956d004a4b2d8c19c853ea43f806"
+}

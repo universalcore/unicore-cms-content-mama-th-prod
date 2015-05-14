@@ -1,0 +1,32 @@
+{
+  "subtitle": "How to have a safe birth", 
+  "description": "Have a skilled birth attendant", 
+  "language": "eng_GB", 
+  "title": "How to have a safe birth", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:12:15+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:46:20.970453+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "f4d2205e7aed491091f04b13782bee96", 
+    "b647ee5a135d416f91476a4f62ee4c64"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIt is safest, and recommended, to give birth in a health facility, where there is help if there are problems.\r\n\r\nIf you cannot have your baby at a health facility, here is how to have a safe birth.\r\n\r\n - \tPlan to have a skilled birth attendant with you. She will help you to give birth safely and she will do what is necessary if there is a problem.\r\n\r\n - \tMake sure you have her phone number so you can call her in an emergency. \r\n\r\n - \tHave ambulance and taxi numbers ready and make sure you have enough airtime on your phone. \r\n\r\n - \tMake sure your family knows how to contact the birth attendant when it is time. \r\n\r\n - \tMake sure you have a birth kit ready. Your birth attendant may bring a birth kit. It will contain a plastic sheet, gloves, clean string and tools for cutting your baby's cord. All these items are important for a clean, safe birth. \r\n\r\nIf you cannot get a birth kit, find a clean sheet to have your baby on and 2 cloths, one to dry your baby and one to wrap her in. Have 2 pieces of string, a clean, sharp knife or a clean pair of scissors ready. Your attendant must wash her hands and you must wash between your legs. Get plenty of clean, boiled water and soap ready.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 57, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-have-safe-birth", 
+  "uuid": "ae6cf05731994ae59eab1443fd8008ec"
+}

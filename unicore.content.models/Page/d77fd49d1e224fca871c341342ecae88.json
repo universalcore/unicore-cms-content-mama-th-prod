@@ -1,0 +1,36 @@
+{
+  "subtitle": "Who shall I tell?", 
+  "description": "Tell your health worker", 
+  "language": "eng_GB", 
+  "title": "Who shall I tell?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:44:49+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:19:22.341860+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "1e51ab9ae7314d27b5e3aa49c32af74c", 
+    "bff09e01129e422bb055b709a0c938b0", 
+    "6977c053a005469c8f2c605c4177339a", 
+    "6de682eb18a047c983d240a248a8acc7", 
+    "b13b956d004a4b2d8c19c853ea43f806", 
+    "755714d2693c40e99a09b5b083327a0b"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nSome women want to keep their pregnancy a secret at first. \r\n\r\nBut telling your health worker does not mean you have to tell everyone else. \r\n\r\nTalking about being pregnant with a health worker will be good for you and your baby. It will mean fewer problems if you get the right care early on.\r\n\r\nYou may be able to have tests to make sure that you and your baby are healthy. You can have blood and urine tests, and tests for HIV. \r\n\r\nIf you already know you are living with HIV, or test positive for HIV at any time while you are pregnant, when you give birth or afterwards, you may be able to have free medication to prevent your baby from becoming HIV+. \r\n\r\nEven if you feel well, get regular check-ups so that you and your baby can stay healthy.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 99, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "who-shall-i-tell", 
+  "uuid": "d77fd49d1e224fca871c341342ecae88"
+}

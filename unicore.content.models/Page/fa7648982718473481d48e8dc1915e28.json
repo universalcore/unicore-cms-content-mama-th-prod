@@ -1,0 +1,32 @@
+{
+  "subtitle": "Can I use traditional remedies?", 
+  "description": "Check with your doctor first", 
+  "language": "eng_GB", 
+  "title": "Can I use traditional remedies?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T12:00:01+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:37:07.287588+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "6977c053a005469c8f2c605c4177339a", 
+    "d77fd49d1e224fca871c341342ecae88"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nFriends and family might offer remedies or tonics or suggest you go to a local healer. Maybe you used these in the past but now you are pregnant **you need to be very careful** about what you take.\r\n\r\nWhen you are pregnant, and when you are breastfeeding, some remedies and tonics might harm your baby. \r\n\r\nA good rule is to check with your doctor before taking any remedies or medicines. She will be able to tell you which are safe for you and your growing baby.\r\n\r\nAnother thing to remember is not to use pregnancy potions. They often contain alcohol, so are not good for you at all! They are bad for you and your baby.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 71, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "can-i-use-traditional-remedies", 
+  "uuid": "fa7648982718473481d48e8dc1915e28"
+}

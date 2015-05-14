@@ -1,0 +1,33 @@
+{
+  "subtitle": "Can I drink alcohol? ", 
+  "description": "Alcohol is harmful to you and your baby", 
+  "language": "eng_GB", 
+  "title": "Can I drink alcohol?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:59:33+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:36:45.253244+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "85346b03dfca4f29ab5807da9035f389", 
+    "f20531a6f1ca4633b6a9bc97809a11a1", 
+    "6de682eb18a047c983d240a248a8acc7"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIt is better not to drink alcohol while you are pregnant, and also while you are breastfeeding. This will keep your baby safe and healthy. \r\n\r\nA small amount of alcohol is usually safe, and if you had a small amount of alcohol before you knew you were pregnant, do not worry. But it is best not to drink any alcohol while you are pregnant. \r\n\r\nHere\u2019s why. Alcohol is a harmful substance. When you drink alcohol, it rapidly reaches your baby via your bloodstream. Heavy drinking can cause pregnancy loss and premature birth. Too much alcohol can even increase the risk of your baby being stillborn.\r\n\r\nIf you drink too much alcohol during pregnancy, it can damage your developing baby's cells forever. This could affect how your baby's face, organs and brain grow.\r\n\r\nRemember that traditional medicines from the market often contain alcohol. So they are not good for you at all! They are bad for you and your baby, so do not use them.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 72, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "can-i-drink-alcohol", 
+  "uuid": "6b78a6ddb59842c2b85168b9dbf14b30"
+}

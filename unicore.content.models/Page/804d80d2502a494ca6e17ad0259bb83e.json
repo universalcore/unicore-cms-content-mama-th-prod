@@ -1,0 +1,34 @@
+{
+  "subtitle": "I have pain in my belly", 
+  "description": "When to worry about belly pains", 
+  "language": "eng_GB", 
+  "title": "I have pain in my belly", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:51:32+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:27:56.662532+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "8c56cfcc57684974be631e3ad5688a49", 
+    "ff938a4ed2bb497993fcb7a0224212c0", 
+    "bff09e01129e422bb055b709a0c938b0", 
+    "6977c053a005469c8f2c605c4177339a"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nAches, pains and cramps in your belly while you are pregnant are normal. They are usually nothing to worry about. Your body is changing to support your growing baby, and your womb is stretching to fit the baby as he grows.\r\n\r\nGetting some rest usually eases the cramps. Try to relax. Sit down for a while with your feet up, or lie down on the side opposite to the where you feel the pain.\r\n\r\nSometimes belly pain can mean something is wrong:\r\n\r\n - \tStomach cramps, bleeding and pain in the centre of the lower belly in early pregnancy could mean that you are losing your baby. Go to the health facility if you feel like this. If the bleeding is heavy and you are soaking more than 1 pad an hour, you need to rush to the health facility. \r\n\r\n - \tPainful cramps that start on one side and spread across your belly may mean that your pregnancy is growing in the wrong place. You may also have bleeding that is dark and watery. This happens in early pregnancy. Go to the health facility immediately.\r\n\r\n - \tIn later pregnancy, if you have pain in your lower belly, along with backache, stomach cramps and diarrhoea, it may mean that your baby is trying to be born early. Go to the health facility if you have frequent pains in late pregnancy, if you have bleeding or your waters break.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 87, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "i-have-pain-my-belly", 
+  "uuid": "804d80d2502a494ca6e17ad0259bb83e"
+}

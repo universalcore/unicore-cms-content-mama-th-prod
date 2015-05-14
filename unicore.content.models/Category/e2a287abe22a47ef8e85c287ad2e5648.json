@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "e2a287abe22a47ef8e85c287ad2e5648", 
+  "language": "eng_GB", 
+  "title": "MAMA to MAMA", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "mama-to-mama", 
+  "source": null, 
+  "position": 2, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": "e2a287abe22a47ef8e85c287ad2e5648"
+}

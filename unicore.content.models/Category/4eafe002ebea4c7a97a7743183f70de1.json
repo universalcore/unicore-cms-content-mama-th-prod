@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "4eafe002ebea4c7a97a7743183f70de1", 
+  "language": "eng_GB", 
+  "title": "Baby", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "baby", 
+  "source": null, 
+  "position": 1, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": "4eafe002ebea4c7a97a7743183f70de1"
+}

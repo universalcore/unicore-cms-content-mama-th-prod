@@ -1,0 +1,32 @@
+{
+  "subtitle": "My baby can hold on!", 
+  "description": "Your baby is learning when she grasps objects", 
+  "language": "eng_GB", 
+  "title": "My baby can hold on!", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:31:53+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:44:39.437174+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "34e1ac7f8e2f4e2383b130aba61de040", 
+    "07835775917d451285dc271d8dc3a52a"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nPlaying with objects is fun for your baby, and it helps her to develop her mental and physical skills.\r\n\r\nLearning how to hold things opens up a whole new world of play for your baby. It is also the first step towards your baby doing things for herself, such as eating, brushing her teeth, reading, writing and doing chores.\r\n\r\nYour baby has a strong instinct to grasp from birth. At first, she is happy just looking at interesting objects, but soon she wants to grasp them. She starts to use this skill when she is about 3 months old. Colourful objects are good for helping your baby to learn this skill. Have fun with your baby by dangling an object within her reach. Watch her try to grab it!\r\n\r\nObjects and toys with different textures are great for exploring. The difference between soft and hard will help excite your baby's senses. Give her safe objects made of soft material to play with.\r\n\r\nBy the time your baby is about 5 months old, she starts to explore by putting objects in her mouth. This is natural, and helps your baby to learn.\r\n\r\nChoose objects or toys that are safe to put in your baby\u2019s mouth. They should be easy to clean, with no sharp edges, strings, or small pieces. Clean them often. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "my-baby-can-hold", 
+  "uuid": "3b003cb5aa1d403da07239571087e5fc"
+}

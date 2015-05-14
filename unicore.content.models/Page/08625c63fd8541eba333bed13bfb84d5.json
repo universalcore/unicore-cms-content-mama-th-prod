@@ -1,0 +1,32 @@
+{
+  "subtitle": "Mealtimes with my baby", 
+  "description": "Make meals fun and interesting", 
+  "language": "eng_GB", 
+  "title": "Mealtimes with my baby", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:29:57+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:40:43.185602+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "70cec4615e224e9c9acdd021605d103c", 
+    "07835775917d451285dc271d8dc3a52a"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nYour baby needs to eat solid foods when he is 6 months old. But he also still needs breastmilk.\r\n\r\nAs he grows older, he will need more food and a greater variety of food. But babies can be fussy eaters, and they can lose interest in food easily.\r\n\r\nHere are some tips to make sure your baby eats well:\r\n\r\n - \tFeed him lots of tasty foods. Take your time. Sit and talk to him while he eats. Eating is a new skill for him, and he is learning.\r\n\r\n - \tIf your baby refuses to eat, be patient. Do not force him. Do not give him sugar, or unhealthy foods. They have no goodness, and are bad for your baby. \r\n\r\n - \tGive him lots of colours, tastes and textures. As babies grow, their tastes change often. What your baby may hate now, he may love in a few weeks!\r\n\r\n - \tMake mealtimes fun. Make sure he is comfortable and that mealtimes are enjoyable for you both.\r\n\r\n - \tMake eye contact, smile and talk to him. Let his meals be a social time. It will help him to eat, and it will also help him learn social skills and new words.\r\n\r\n - \tIf your baby is easily distracted while eating, take him to a quiet place and gently encourage him to eat. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 12, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "mealtimes-my-baby", 
+  "uuid": "08625c63fd8541eba333bed13bfb84d5"
+}

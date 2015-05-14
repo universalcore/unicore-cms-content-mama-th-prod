@@ -1,0 +1,32 @@
+{
+  "subtitle": "Is she constipated?", 
+  "description": "Here is how to help her", 
+  "language": "eng_GB", 
+  "title": "Is she constipated?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:27:12+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:16:31.284843+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "70cec4615e224e9c9acdd021605d103c", 
+    "b4c6834509f54db7847d7c83ca76dec4"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIn your baby's first few weeks, it will take a little while for her bowels to settle into a routine. Her stools may be loose 1 day, and hard the next. Soon you will know what is normal.\r\n\r\nWhile your baby is having only breastmilk, her stools will be soft and easy to pass. It is only when she begins to eat solid food that she may have constipation, when her stools are hard and difficult to pass, and do not pass as often as usual.\r\n\r\nThe signs of constipation are easy to spot. \r\n\r\n - \tIf your baby cries when she passes a stool, this may be a sign. You may also notice her stools are dry and hard. She may also pass fewer stools than normal, sometimes as few as 3 stools a week.\r\n\r\n - \tStools and wind that smell very bad are also signs. A hard, bloated belly is another.\r\n\r\nWhat can you do? If you think that your baby is constipated, give her plenty of breastfeeds. Breastmilk is ideal. Do not give her water, or any other drink but breastmilk.\r\n\r\nIf your baby has started eating solids, give her lots of fruit and vegetables as well as breastmilk and clean, safe water. This will help to soften her stools.\r\n\r\nSometimes, very liquid stools are a sign of constipation. Liquid stools can move around hard stools that are blocking the digestive system. If you think this is happening to your baby, then see a health worker.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 22, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "she-constipated", 
+  "uuid": "d3ef0638f1174770bdc5ac197a9ffee9"
+}

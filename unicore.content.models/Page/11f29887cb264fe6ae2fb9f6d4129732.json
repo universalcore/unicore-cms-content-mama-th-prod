@@ -1,0 +1,33 @@
+{
+  "subtitle": "How long will labour last?", 
+  "description": "From about 8 to 18 hours", 
+  "language": "eng_GB", 
+  "title": "How long will labour last?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:14:30+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:49:11.821948+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "fcde48e185a64e3a8567f0ef2ca194a3", 
+    "5a95c58a6d094cd7be0a8774e5c17b28", 
+    "c442f70c8c354f57a9492c93e7cd1f76"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nFor your first baby, labour may take about 8 hours. But it could be much shorter or much longer. It is unlikely to last more than 18 hours. Once your cervix (the opening to your womb) has opened fully, it could take 1 or 2 hours of pushing before your baby is born. \r\n\r\nIf you have had a baby before, labour will probably be faster this time around. About 5 hours is common. It is unlikely to last more than 12 hours. It may only take you around 10 minutes to push your baby out. Every labour is different, so even if you have done this all before you may be surprised by how fast, or slow, this labour is.\r\n\r\nKeep upright and move around in labour, as this may help everything to happen more quickly.\r\n\r\nAfter your baby is born, your body pushes the placenta out. This often takes from 5 to 15 minutes. But it can take up to 1 hour. \r\n\r\nVery occasionally, labour can happen really fast. This is more likely if you have had a baby before. It is important to trust your instincts so you know what your body is telling you, then you can get help in time. Some babies just cannot wait! \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 51, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-long-will-labour-last", 
+  "uuid": "11f29887cb264fe6ae2fb9f6d4129732"
+}

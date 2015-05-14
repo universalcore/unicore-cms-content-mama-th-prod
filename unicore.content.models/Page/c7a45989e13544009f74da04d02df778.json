@@ -1,0 +1,32 @@
+{
+  "subtitle": "My baby's first word!", 
+  "description": "This happens when he is around 1 year old", 
+  "language": "eng_GB", 
+  "title": "My baby\u2019s first word!", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:32:24+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:45:19.678361+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "1fd32f3dafaf446eb9b709b7d2a286b0", 
+    "07835775917d451285dc271d8dc3a52a"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nFrom the moment your baby is born, he is learning how to speak. \r\n\r\nHis first form of talking to you is crying. He cries when he is hungry, uncomfortable or tired.\r\n\r\nAs he grows, your baby listens to you and the people around him and starts trying to copy you. He wants to talk to you!\r\n\r\nMake eye contact and talk to your baby as much as you can. Point to people and things as you talk about them.\r\n\r\nBetween 3 and 4 months, he cries less and makes more sounds. He begins to recognise his name. Try calling his name from a short distance and see if he responds.\r\n\r\nBetween 5 and 6 months, your baby makes sounds to get your attention, and will babble to himself when he plays. He might say sounds like \u2018ba\u2019 or \u2018ma\u2019 over and over.\r\n\r\nBetween 7 months and 1 year, he tries new sounds and tries to copy what you are saying. He recognises the names of familiar objects, such as \"cup\".\r\n\r\nFrom around 1 year, he may begin to use one or more words and know what they mean.\r\n\r\nIf you are worried that he is not saying any words by 15 months old, talk to a health worker.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "my-babys-first-word", 
+  "uuid": "c7a45989e13544009f74da04d02df778"
+}

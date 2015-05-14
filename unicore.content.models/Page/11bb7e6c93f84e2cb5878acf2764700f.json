@@ -1,0 +1,32 @@
+{
+  "subtitle": "When will my baby sleep?", 
+  "description": "Her sleep will change as she grows", 
+  "language": "eng_GB", 
+  "title": "When will my baby sleep?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:26:06+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:15:00.225938+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "f2a9b97149da468ba7f876271ce1e4ef", 
+    "67a7122eef9941fa9cda35a090a4dfd4"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nBy 3 or 4 months, most babies are sleeping for 15 hours a day. Around 10 of those hours are at night. Your baby will have the rest of her sleep in daytime naps. By 6 months, your baby may sleep for as long as 7 hours at night. If your baby sleeps for longer, she is probably waking up but is falling back to sleep without your help.\r\n\r\nAs your baby grows older, she will sleep for about 11 to 12 hours during the night. Your baby may also take a nap twice a day. These naps will both be about 1 hour long. Until her second birthday, she will need between 13 and 14 hours of sleep a day. \r\n\r\nIf she goes to bed at the same time every day, she will fall asleep more easily. This is because she will expect to be put down to sleep.\r\n\r\nTry not to do too much with your baby if you want her to sleep. Instead, take her to a dark, quiet place. Sing to her, or talk quietly to her. This will help her to relax.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 26, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "when-will-my-baby-sleep", 
+  "uuid": "11bb7e6c93f84e2cb5878acf2764700f"
+}

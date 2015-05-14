@@ -1,0 +1,32 @@
+{
+  "subtitle": "When to offer solid food?", 
+  "description": "When your baby reaches 6 months old", 
+  "language": "eng_GB", 
+  "title": "When to offer solid food?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:29:28+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:39:17.074282+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "08625c63fd8541eba333bed13bfb84d5", 
+    "70cec4615e224e9c9acdd021605d103c"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nEating solid food is a big step!\r\n\r\nYou can tell if your baby is ready to start eating solid food. It is when she is over 6 months old. A baby who is ready to start solids can usually do these things:\r\n\r\n - \tShe holds her head up.\r\n\r\n - \t She sits up well when supported. You may have to sit your baby on your lap at first.\r\n\r\n - \tShe makes chewing motions. Your baby should be able to move food to the back of her mouth and swallow.\r\n\r\n - \tShe is curious about what you are eating. When babies look at your food and stretch their hands out to it, this is a sign that they are ready to eat solid food.\r\n\r\n - \tShe is a healthy weight. Most babies are ready to eat soft solids when they have doubled their birth weight. This is usually at about 6 months.\r\n\r\nYour baby may be showing these signs before 6 months. But it is safer if you wait until she is 6 months old before giving her mashed foods. By then her digestive system is stronger. This means there is less chance of her having a stomach problem or a bad reaction to food.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 14, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "when-offer-solid-food", 
+  "uuid": "07835775917d451285dc271d8dc3a52a"
+}

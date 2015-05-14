@@ -1,0 +1,33 @@
+{
+  "subtitle": "How to swaddle your baby", 
+  "description": "Swaddling can help him sleep", 
+  "language": "eng_GB", 
+  "title": "How to swaddle your baby", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:25:51+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:14:32.868636+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "f2a9b97149da468ba7f876271ce1e4ef", 
+    "67a7122eef9941fa9cda35a090a4dfd4", 
+    "10672aeb76af4a65adaea1eafa9633e0"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nYou need a clean cloth large enough to wrap around your baby and tuck in. Lay a clean cloth on a flat surface. Position it like a diamond shape, with a point at the top, and fold down the top corner. Place your baby on his back with his neck on the fold.\r\n\r\nHold your baby's right arm down flat at his side. Pull the left corner of the blanket over his right arm and across his body. Then tuck it under his left arm and roll him to your left, and wrap whatever is remaining under his back. Tuck it in securely while making sure your baby can still bend his hips up and outwards.\r\n\r\nHold your baby's left arm down and pull the bottom corner up over his left shoulder. Tuck any extra material around his left arm.\r\n\r\nBring the loose right corner straight out to pull it taut. Then pull it across your baby's front and roll him to your right a bit, so you can wrap the corner all the way around his back.\r\n\r\nTake care not to pull the cloth too tight or your baby could suffocate.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 27, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-swaddle-your-baby", 
+  "uuid": "7521bd25fd7447d092b674b0f3f878d3"
+}

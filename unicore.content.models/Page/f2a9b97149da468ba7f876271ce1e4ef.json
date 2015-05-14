@@ -1,0 +1,32 @@
+{
+  "subtitle": "Can I help my baby sleep?", 
+  "description": "Yes, choose a routine that suits you", 
+  "language": "eng_GB", 
+  "title": "Can I help my baby sleep?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:25:35+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:14:09.099308+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "11bb7e6c93f84e2cb5878acf2764700f", 
+    "67a7122eef9941fa9cda35a090a4dfd4"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nYou may carry your baby with you and let him sleep when he needs it. Or you may want to help him sleep in the evenings. It depends on the way you and your family live. Do whatever suits your lifestyle and routine. \r\n\r\nIf you want to settle your baby to sleep in the evenings, try these things:\r\n\r\n - \tHow you settle your baby to sleep is important. If you rock him to sleep every night for the first 8 weeks, he will expect the same later on. If you leave him alone to sleep, he will get used to that, too. \r\n\r\n - \tSo work out the best routine for you and your baby, and do that! Keep to the same pattern every night, so he gets used to it. \r\n\r\n - \tWhen your baby is 6 to 8 weeks old, you could start helping him to learn how to fall asleep on his own. Put him down to sleep when he is sleepy, but still awake. Stay with him if you want.\r\n\r\n - \tStay quiet when you feed him at night. Keep the room dark, and do not talk to him much. Before long, he should begin to understand that night-time is for sleeping. \r\n\r\n - \tOver the first few weeks, you may find that swaddling your baby helps him to sleep. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 28, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "can-i-help-my-baby-sleep", 
+  "uuid": "f2a9b97149da468ba7f876271ce1e4ef"
+}

@@ -1,0 +1,32 @@
+{
+  "subtitle": "When will my baby walk?", 
+  "description": "When she is 12 to 18 months old", 
+  "language": "eng_GB", 
+  "title": "When will my baby walk?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:32:40+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-04-21T15:01:40.188273+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "b41351a427a2474fa8e0b90b341990c0", 
+    "c7a45989e13544009f74da04d02df778"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nMost babies take their first steps at about 12 months old. Many are walking well by the time they reach 14 or 15 months old.\r\n\r\nDo not worry if your child takes a little longer. Many children do not walk until they are 17 or 18 months old.\r\n\r\nWhen your baby takes her first steps, give her some help. She will hold on to your hands, or use walls or furniture for support. Give her lots of praise and cuddles for her efforts!\r\n\r\nIt may take your baby several more months to develop the confidence and balance she needs to take her first steps alone. It will then be another few months before her walking is controlled and steady.\r\n\r\nLearning to walk is an important part of your baby growing up. It marks the change from being a baby to becoming a child.\r\n\r\nIf you are worried about how your baby is developing, talk to a health worker.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "when-will-my-baby-walk", 
+  "uuid": "1fd32f3dafaf446eb9b709b7d2a286b0"
+}

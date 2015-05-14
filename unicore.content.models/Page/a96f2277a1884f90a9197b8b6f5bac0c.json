@@ -1,0 +1,36 @@
+{
+  "subtitle": "What is high blood pressure?", 
+  "description": "It can harm your baby inside you", 
+  "language": "eng_GB", 
+  "title": "What is high blood pressure?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:50:44+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:26:52.138443+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "f04e9a2744954e7babe9782e4e2d0fa2", 
+    "bff09e01129e422bb055b709a0c938b0", 
+    "c0f8a824787a47bda0cdad32b75f0b7d", 
+    "c18ae5de25b34be28ff33f1964f901aa", 
+    "6977c053a005469c8f2c605c4177339a", 
+    "e64f87ef486e4d2fbeeac56bdb8e2fdc"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nHigh blood pressure can mean that your baby does not get all the food and oxygen he needs, so he may be born very small and weak. It can also make you very ill, and cause fits, especially in later pregnancy.\r\n\r\nYou may not feel if you have high blood pressure, so it is important to see a health worker to check your blood pressure regularly while you are pregnant.\r\n\r\nA wide cuff will be put around your arm to measure your blood pressure. It will not hurt but it feels tight for a few moments. Your health worker will write the results down so that you have a record of your blood pressure at each visit. She will compare the measurements at each visit so she can spot any problems.\r\n\r\nYou are more likely to get high blood pressure if you are very overweight. Do not add salt to food. If you already have high blood pressure, this will make it worse.\r\n\r\nThere are medicines to control high blood pressure. See a health worker regularly, so any problems can be found early and you can get the right medicine. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 89, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-high-blood-pressure", 
+  "uuid": "a96f2277a1884f90a9197b8b6f5bac0c"
+}

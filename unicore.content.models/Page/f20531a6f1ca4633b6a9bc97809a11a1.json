@@ -1,0 +1,31 @@
+{
+  "subtitle": "Stop smoking ", 
+  "description": "Smoking is bad for you and your baby", 
+  "language": "eng_GB", 
+  "title": "Stop smoking", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T12:01:04+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:38:09.504822+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "6b78a6ddb59842c2b85168b9dbf14b30"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nTry to stop smoking, it will make you and your baby more healthy, and it will save you money! You could save your money to help to pay for things that you and your baby might need.\r\n\r\nSmoking when you are pregnant can make your baby weak and sickly. It is also bad for your baby when you are breastfeeding.\r\n\r\nYou could ask your family to help you to stop smoking. You might let them know that smoke in the house is also bad for the baby. Maybe you could ask them to stop with you. You should ask anyone who smokes in the house to smoke outside, now you are pregnant. \r\n\r\nIf you smoke, start cutting down or quit. It might be hard, but it is definitely worth it for your baby. Start by cutting down small amounts every day. If you are finding it really difficult to cut down, talk to your health worker.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 68, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "stop-smoking", 
+  "uuid": "f20531a6f1ca4633b6a9bc97809a11a1"
+}

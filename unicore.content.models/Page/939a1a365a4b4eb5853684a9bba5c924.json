@@ -1,0 +1,33 @@
+{
+  "subtitle": "Your first milk is the best ", 
+  "description": "First breastmilk is a precious gift", 
+  "language": "eng_GB", 
+  "title": "Your first milk is the best", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:16:32+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:57:06.354677+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "e45e43483f6d4b6e9424c1ee4ae6197f", 
+    "e64f87ef486e4d2fbeeac56bdb8e2fdc", 
+    "b82610081b8d4ffe8d7447941f90f7aa"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nYour baby is here! Now what to do? Food, of course! And your breasts contain the very best food for your baby. \r\n\r\nPlan to put your baby straight to the breast when he is born. It helps get feeding started, gives him your precious first milk and reduces the amount you bleed.\r\n\r\nThe first milk you make is very thick and creamy-coloured. It is called colostrum. Sometimes you may find this yellowy milk leaking from your breasts. \r\n\r\nColostrum is a precious gift for your baby. It is so good for him, it is like giving him his first vaccination! This first milk is rich in foods and antibodies.\r\n\r\nFeed this special first milk to your baby as soon as he is born, within the first hour. It will give your baby the best start in life. Feeding him anything else is harmful and a waste of your special first milk. \r\n\r\nBreastmilk alone is the best food. It is free, safe, prevents illness, and helps your baby to grow strong. Let him suckle often. \r\n\r\nIf you are living with HIV then your baby will need to take antiretrovirals (ARVs). The ARVs will protect him from getting HIV and you will need to feed them to him every day. Your health worker will test your baby for HIV at six weeks.\r\n\r\nIf you have any questions, ask your health worker.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 46, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "your-first-milk-best", 
+  "uuid": "939a1a365a4b4eb5853684a9bba5c924"
+}

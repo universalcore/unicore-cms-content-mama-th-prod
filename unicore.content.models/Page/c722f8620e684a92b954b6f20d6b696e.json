@@ -1,0 +1,32 @@
+{
+  "subtitle": "Can I feed my sick baby?", 
+  "description": "Yes, food speeds up recovery", 
+  "language": "eng_GB", 
+  "title": "Can I feed my sick baby?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:26:58+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:16:07.513983+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "70cec4615e224e9c9acdd021605d103c", 
+    "1878de72e961404b88affddce0ea8c41"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nFood is what your baby needs to get her strength back.\r\n\r\nAll babies get sick sometimes. It is sad to see your baby sick, but you can help her to get well by giving her the right care and treatment, and by continuing to feed her well.\r\n\r\nIf your baby is less than 6 months old, your breastmilk will help her to get better. Your breastmilk is healthy for her. It will help your baby get stronger. If your baby has loose stools or diarrhoea, breastmilk is gentle for her stomach, and will give her all the goodness she is losing while she is sick.\r\n\r\nIf your baby is over 6 months old, continue to feed her mashed family foods. Add a little butter or oil to make it even better. Even if she is vomiting or has diarrhoea, she still needs to eat. Food will help her to recover.\r\n\r\nIf she refuses to eat, offer her small amounts of food, often, through the day. This will help her body to recover.\r\n\r\nIf your baby is still sick after a day, or her diarrhoea lasts longer than a day, take her to the health worker.\r\n\r\nWhen your baby begins to feel better, offer her 2 extra meals a day for 2 weeks. This will help her get back to her usual health.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 23, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "can-i-feed-my-sick-baby", 
+  "uuid": "c722f8620e684a92b954b6f20d6b696e"
+}

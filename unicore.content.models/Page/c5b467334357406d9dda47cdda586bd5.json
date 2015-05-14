@@ -1,0 +1,32 @@
+{
+  "subtitle": "Breastmilk combats HIV", 
+  "description": "Breast is best if you are living with HIV", 
+  "language": "eng_GB", 
+  "title": "Breastmilk combats HIV", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:21:44+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:02:58.074983+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "e946bd85cdd1405c9337f1ab4460e63b", 
+    "b13b956d004a4b2d8c19c853ea43f806"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIf you are living with HIV, you may wonder if breastfeeding is a good thing. \r\n\r\nRemember, you can significantly reduce the risk of passing on HIV to your baby by feeding him only breastmilk and his antiretroviral (ARV) medicine every day. Do not forget to take your baby to the health facility at 6 weeks so he can have a test for HIV. \r\n\r\nYour baby will need lots of food to grow. The best food for him is your breastmilk. Your milk is full of goodness that is perfect for your baby. It has all he needs to grow big and strong. It can also help to protect him from some diseases.\r\n\r\nIf you feed him breastmilk and nothing else, not even water, for the first 6 months, you can help give him the best start in life. Even if you need to go back to work before this time, you can squeeze out your breastmilk and leave it for him. Your health worker can help you to learn how to do this.\r\n\r\nTake advantage of your precious milk and let your baby have it as often as he wants. Let him feed until he has had enough. It will keep him healthy and happy. \r\n\r\nNever mix breastfeeding with any other type of milk because this makes it more likely that your baby will get HIV.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 41, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "breastmilk-combats-hiv", 
+  "uuid": "c5b467334357406d9dda47cdda586bd5"
+}

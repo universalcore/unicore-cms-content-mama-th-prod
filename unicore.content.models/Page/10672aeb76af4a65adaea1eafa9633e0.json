@@ -1,0 +1,32 @@
+{
+  "subtitle": "Why does my baby cry? ", 
+  "description": "Crying is communication", 
+  "language": "eng_GB", 
+  "title": "Why does my baby cry?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:25:00+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:09:50.114266+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "7521bd25fd7447d092b674b0f3f878d3", 
+    "e946bd85cdd1405c9337f1ab4460e63b"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nAll babies cry. This is how they tell us what they need, or communicate. Some cry more than others.\r\n\r\nHunger is usually the reason why your baby cries. So if he cries, let him breastfeed as long as he wants. He will soon be soothed as his belly fills.\r\n\r\nSome babies cry if they feel uncomfortable. Check if your baby's clothes are too tight, or if his nappy is soiled.\r\n\r\nHe may also be feeling too warm or too cold. Check how many layers of clothing he has on. He should be cosy with just 1 more layer of clothing than you.\r\n\r\nYour baby may also just want to rest or be held.\r\n\r\nHere are 3 ways to comfort your crying baby:\r\n\r\n - \t**Swaddle him in a blanket.** Babies like to feel snug and secure like they did in the womb.\r\n\r\n - \t**Hold him against you with a sling.** The rhythm of your heartbeat may soothe him.\r\n\r\n - \t**Sing to him** or rock him gently.\r\n\r\nIf your baby cries without stopping, or the cry is more high-pitched than normal, take him to your health worker.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 30, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "why-does-my-baby-cry", 
+  "uuid": "10672aeb76af4a65adaea1eafa9633e0"
+}

@@ -1,0 +1,35 @@
+{
+  "subtitle": "Check-ups after birth", 
+  "description": "Make sure you are both OK", 
+  "language": "eng_GB", 
+  "title": "Check-ups after birth", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:23:37+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:06:01.649992+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "c94253b0524c4432bc7b51ac974acc31", 
+    "371021a52879476e90161c2b01a5b039", 
+    "37ff17ad28e24bf8a3b0505176011ecf", 
+    "c23b672c6e8b42fcba4f55eb9ac89c17", 
+    "e96875e2a14347a69a61056a99bfd813"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIt is good, and reassuring, to have health check-ups in the weeks after your baby is born, to make sure both you and your baby are OK. \r\n\r\nVisit the health worker with your baby at least once during week 1 and again when she is 6 weeks old. \r\n\r\nTake your baby to a health worker immediately if:\r\n\r\n - \tHer belly is too cold or too hot\r\n\r\n - \tShe develops yellow eyes, hands and feet within the first day of his life\r\n\r\n - \tShe refuses to feed or sucks poorly\r\n\r\n - \tShe will not stop crying or if his cry sounds unusual\r\n\r\n - \tShe has a fit, is drowsy and not moving much, or has bluish skin or nails\r\n\r\n - \tShe is wheezing, grunting, or breathing quickly \r\n\r\n - \tShe is vomiting after every feed for more than a day, or has a swollen tummy\r\n\r\n - \tThe area around your baby's cord stump is red or smelly\r\n\r\nThese are signs that your baby is unwell, and needs treatment quickly.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 34, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "check-ups-after-birth", 
+  "uuid": "8dce9b89c7204920bdc0c36c39083514"
+}

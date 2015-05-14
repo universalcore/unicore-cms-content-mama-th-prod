@@ -1,0 +1,36 @@
+{
+  "subtitle": "Why do I need minerals?", 
+  "description": "Minerals help grow a healthy baby", 
+  "language": "eng_GB", 
+  "title": "Why do I need to eat minerals?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:11:26+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:44:48.418923+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "857b0bddf67041fc971f002b861ec7dd", 
+    "f04e9a2744954e7babe9782e4e2d0fa2", 
+    "1e51ab9ae7314d27b5e3aa49c32af74c", 
+    "46e7a702a81c4e2c8b3b0e1da96856df", 
+    "85346b03dfca4f29ab5807da9035f389", 
+    "e64f87ef486e4d2fbeeac56bdb8e2fdc"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nMinerals help you to stay healthy and grow a healthy baby. If you eat foods from these 4 main food groups you will get the minerals you need.\r\n\r\n - \tFruit and vegetables. Eating lots of different coloured fruit and vegetables will give you lots of goodness.\r\n\r\n - \tStarchy, filling foods, such as ugali, rice, chapati, bananas, potatoes, cassava. Base your meals around starchy foods. This will give you plenty of energy.\r\n\r\n - \tProtein-rich foods, such as eggs, fish, chicken and meat. These foods are also good sources of iron. They will help you to stay strong.\r\n\r\n - \tCalcium-rich foods such as milk and green leafy vegetables. \r\n\r\nAdding iodised salt to your food will give you iodine. You need plenty of iodine in your diet to help your baby's brain to develop. Try to have some every day. If salt is iodised, it will say this on the packet.\r\n\r\nBy eating a range of these foods you will be able to stay fit and strong, as well as grow a healthy baby.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 60, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "why-do-i-need-eat-minerals", 
+  "uuid": "a020c07a7fa84f8790acfda139df53bc"
+}

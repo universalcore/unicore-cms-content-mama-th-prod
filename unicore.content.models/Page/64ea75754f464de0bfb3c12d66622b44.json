@@ -1,0 +1,32 @@
+{
+  "subtitle": "Is she getting enough milk?", 
+  "description": "Look out for these signs", 
+  "language": "eng_GB", 
+  "title": "Is she getting enough milk?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:22:25+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:04:00.832388+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "9d84dd5f16a04b5d89f1bb616c8d4c8b", 
+    "e946bd85cdd1405c9337f1ab4460e63b"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIf your baby is feeding at least 6 to 8 times a day, and you are comfortable feeding her, she is probably getting enough milk. You will be able to see her swallow while she is feeding, and your breasts will feel emptier and softer after feeds.\r\n\r\nAnother good sign is if your baby changes rhythm while sucking and pauses during feeds. She should start feeding again when she is ready, and come off your breast when she wants to.\r\n\r\nYour baby's nappies can also show if your baby is getting enough milk. Her stools should be a yellow colour and she should pass them at least once a day. When you change her nappy, the water she passes should be pale and should have no smell. She should have at least 6 to 8 wet nappies every day.\r\n\r\nA baby who gets enough milk will also have firm, healthy coloured skin that bounces back when lightly pinched.\r\n\r\nIf you are worried that your baby is not getting enough milk, ask a health worker. They will be able to check that your baby is healthy.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 38, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "she-getting-enough-milk", 
+  "uuid": "64ea75754f464de0bfb3c12d66622b44"
+}

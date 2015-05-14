@@ -1,0 +1,31 @@
+{
+  "subtitle": "Is circumcision safe? ", 
+  "description": "Only for boys, if done in a hospital", 
+  "language": "eng_GB", 
+  "title": "Is circumcision safe?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:28:11+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:17:56.504575+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "5e678aea123c49488a08e6921f64c6b9"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nYou may be worried about how safe it is to get your baby boy circumcised. Male circumcision can be unsafe if it is not done in a clean way. Take your baby to a medical health facility or a health worker for a safe, clean circumcision. It is never safe to circumcise a girl at any age.\r\n\r\nA health facility has trained staff to do the procedure in a quick and easy way. So it is less likely to cause problems. If something does go wrong, staff know what to do.\r\n\r\nStaff at the health facility also use clean tools. This will help to protect your baby boy from infections. Staff will also give him medicine to numb the pain. This will make him much more comfortable.\r\n\r\nFriends and family may tell you to get a religious or traditional leader to do the circumcision. But a traditional leader may not have been trained and will not know how to keep germs away.\r\n\r\nTell your family and friends that getting your baby boy circumcised at a health facility is the safest way. \r\n\r\nRemember: it is never safe to circumcise a girl at any age. Girls should not be circumcised at all.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 18, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "circumcision-safe", 
+  "uuid": "d6c00345cb75458c8ad96a3b4a92dabd"
+}

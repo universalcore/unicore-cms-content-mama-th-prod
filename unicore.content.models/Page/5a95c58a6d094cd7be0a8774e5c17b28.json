@@ -1,0 +1,32 @@
+{
+  "subtitle": "Will I need a caesarean?", 
+  "description": "Sometimes an operation is safer", 
+  "language": "eng_GB", 
+  "title": "Will I need a caesarean?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:12:48+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:46:47.904797+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "f4d2205e7aed491091f04b13782bee96", 
+    "b647ee5a135d416f91476a4f62ee4c64"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nSometimes an operation is the safest way to have your baby. You can only have a caesarean at a health facility.\r\n\r\nAn operation may be needed if you are having more than 1 baby, or if your baby is not in a good position to be born. \r\n\r\nIf you have been in labour for more than 12 hours, you may need an operation to help your baby to be born. If you are labouring at home, this is the time to go to the health facility to see if there is a problem.\r\n\r\nIf you are bleeding during labour, an operation may be needed very quickly.\r\n\r\nIf you had an operation with a previous baby, you may need one with this baby as well. In this case, make sure you plan to have this baby in a health facility. \r\n\r\nYou may be asleep while you have the operation, or you may have an injection in your spine so you feel no pain. A cut is made in your stomach. Your baby will be delivered by the doctor and then you are stitched up again. You will see your baby as soon as she is born, or when you wake up if you have been asleep for the operation.\r\n\r\nAfter the operation, you will need to be looked after for several days while the cut heals. You will bleed from your vagina for a few weeks, just as you would with a normal birth.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 56, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "will-i-need-caesarean", 
+  "uuid": "5a95c58a6d094cd7be0a8774e5c17b28"
+}

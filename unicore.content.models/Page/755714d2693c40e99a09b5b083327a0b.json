@@ -1,0 +1,32 @@
+{
+  "subtitle": "How do I know I'm pregnant?", 
+  "description": "1 missed period", 
+  "language": "eng_GB", 
+  "title": "How do I know I\u2019m pregnant?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:44:27+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:15:52.026961+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "6de682eb18a047c983d240a248a8acc7", 
+    "d77fd49d1e224fca871c341342ecae88"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nAre you pregnant? How can you tell? The surest sign is a missed period, but you may find it hard to remember the date of your last period.\r\n\r\nDo you have any of these signs of pregnancy?\r\n\r\n - \tYour breasts look and feel different \r\n\r\n - \tYou notice some spots of blood in your underwear \r\n\r\n - \tYou feel nauseous\r\n\r\n - \tYou need to urinate more than usual \r\n\r\n - \tYou miss a period\r\n\r\nIf you think you are pregnant, it is best if you see a health worker. The earlier you find out, the sooner you can start planning for your new baby. A health worker will also be able to give you advice and help while you are pregnant.\r\n\r\nThe health worker will weigh you, check your blood pressure and test your urine, to make sure you and your baby are healthy.\r\n\r\nWorried about seeing a health worker? Ask a friend to go with you.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 100, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-do-i-know-im-pregnant", 
+  "uuid": "755714d2693c40e99a09b5b083327a0b"
+}

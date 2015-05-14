@@ -1,0 +1,33 @@
+{
+  "subtitle": "Is sex safe, now I'm pregnant?", 
+  "description": "Sex in pregnancy is usually safe", 
+  "language": "eng_GB", 
+  "title": "Is sex safe, now I\u2019m pregnant?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:45:08+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:19:51.525624+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "2e99df5f90fc434eb93302f15da4680b", 
+    "bff09e01129e422bb055b709a0c938b0", 
+    "b13b956d004a4b2d8c19c853ea43f806"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nAre you worried about sex while you are pregnant? \r\n\r\nYou can have sex just like you did before you were pregnant. Sex does not cause pregnancy loss.\r\n\r\nHowever, if you feel pain in your belly, you are bleeding, or you had problems in a previous pregnancy, talk to your health worker first. It may be safer not to have sex until after your baby is born.\r\n\r\nYou may feel uncomfortable and may not want to have sex. Many women feel like that. Try to show love in other ways. Have a cuddle or a massage.\r\n\r\nIf you have are leaking sticky fluid (a discharge) or you are itching and you want to have sex, use a condom. It is safer. If you notice a discharge, you should also go to the health worker when you can.\r\n\r\nIt is a good idea to always use condoms while you are pregnant. They protect you and your baby against infections you can get from sex and from HIV.\r\n\r\nYou can get infections from having any type of unprotected sex with someone who has an infection that you can pass on by having sex, including HIV.\r\n\r\nThese infections can make you and your baby very sick. A health worker will test you for infections and will help you to manage them. Symptoms to look for include a rash around your vagina or pain when you pass urine.\r\n\r\nRemember, you can have an infection with no symptoms. So it is a good idea to get tested.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 98, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "sex-safe-now-im-pregnant", 
+  "uuid": "7d9bd36f55a849eb9ac29bed03f803e5"
+}

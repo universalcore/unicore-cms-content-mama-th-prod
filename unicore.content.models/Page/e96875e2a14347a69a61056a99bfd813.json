@@ -1,0 +1,32 @@
+{
+  "subtitle": "Heavy bleeding?", 
+  "description": "Get medical help immediately", 
+  "language": "eng_GB", 
+  "title": "Heavy bleeding", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:24:14+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T09:07:18.315320+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "371021a52879476e90161c2b01a5b039", 
+    "8dce9b89c7204920bdc0c36c39083514"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIf you are soaking more than 1 large pad or cloth an hour, go to the health worker or health facility now, straight away. \r\n\r\nIt is normal to bleed a little after birth because your body is clearing out the lining of your womb. \r\n\r\nBut if you suddenly start to lose fresh red blood, you need help. This blood loss may make you feel dizzy, sweaty or faint.\r\n\r\nThere are many reasons why you might be losing too much blood.\r\n\r\nAfter birth, the womb usually shuts off the blood vessels that took blood through to the baby. If this does not happen, the blood vessels leak into the womb and cause heavy bleeding.\r\n\r\nSometimes the placenta does not come away cleanly, and this, too, can cause heavy bleeding.\r\n\r\nA health worker can help to stop the flow of blood. You may be given an injection or tablets to take. You may also need extra fluid through a drip to replace what you have lost. Get help from a health worker as soon as you see heavy or bright red blood.\r\n\r\nYou will need lots of rest when you get home. Ask your family and friends for help.\r\n\r\nIf you have any medicines to take, finish them even if you feel better. This will help you to recover.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 32, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "heavy-bleeding", 
+  "uuid": "e96875e2a14347a69a61056a99bfd813"
+}

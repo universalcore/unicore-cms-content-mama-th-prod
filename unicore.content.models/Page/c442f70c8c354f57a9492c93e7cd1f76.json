@@ -1,0 +1,36 @@
+{
+  "subtitle": "How do I know I am in labour?", 
+  "description": "Here\u2019s how!", 
+  "language": "eng_GB", 
+  "title": "How do I know if I am in labour?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:13:30+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:47:49.400481+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "11f29887cb264fe6ae2fb9f6d4129732", 
+    "69bff69edb0b4fc8bd1ad6f78b79f688", 
+    "d6f1852c35f14e34b452c088c21da178", 
+    "ae6cf05731994ae59eab1443fd8008ec", 
+    "f4d2205e7aed491091f04b13782bee96", 
+    "e64f87ef486e4d2fbeeac56bdb8e2fdc"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIf this is your first baby, you may not be sure if you are in labour or not. If you have had a baby before, you will know, because you will remember how you felt last time. \r\n\r\nYou may get practice contractions. They come and go all the time you are pregnant. But if you are trying to decide if you are in labour and if now is the time to go to the health facility, answering these questions may help. \r\n\r\n - \tDo you have pain in your lower back or low down in your tummy?\r\n\r\n - \tDo you have cramp-like feelings, as if you are about to start your period? \r\n\r\n - \tIs there a brown or blood-tinged jelly-like sticky fluid coming from your vagina?\r\n\r\n - \tAre you having contractions that are getting longer and stronger? Contractions feel like period pains. They come and go at first. Go to the health facility when they are regular.\r\n\r\n - \tHave your waters burst? Your baby has been floating inside a bag of fluid. If the bag breaks, with a trickle or a gush of fluid, you should go to the health facility. Your baby is on the way! \r\n\r\nIf you have some of these signs, it means that you are in early labour. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 54, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-do-i-know-if-i-am-labour", 
+  "uuid": "c442f70c8c354f57a9492c93e7cd1f76"
+}

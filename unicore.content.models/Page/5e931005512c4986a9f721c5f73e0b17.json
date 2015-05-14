@@ -1,0 +1,32 @@
+{
+  "subtitle": "I am constipated, help!", 
+  "description": "Eat lots of fruit and vegetables", 
+  "language": "eng_GB", 
+  "title": "I am constipated, help!", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-03-31T11:49:10+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-21T08:22:43.775069+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "85346b03dfca4f29ab5807da9035f389", 
+    "04af3ad744684c18b2e03e9b1a6cedab"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nBeing constipated means you are not passing stools. You might have to strain more. Or you might be unable to fully empty your bowels. Your stools might also be unusually hard, lumpy, large or small.\r\n\r\nLots of women get constipated in pregnancy. It has different causes: \r\n\r\n - \tAs your baby gets bigger, your womb presses down on your pelvic area. This makes constipation more likely.\r\n\r\n - \tPregnancy hormones can also slow the movement of food through your body. \r\n\r\n - \tA lack of exercise can also slow your digestive system down.\r\n\r\nYou can help your body by eating more fruit and vegetables. Try dark green leafy vegetables like kale and spinach, and also eat raw guava, taro and mushrooms. Vegetables and fruit are high in fibre, which will help to make your stools softer and easier to pass. Drink plenty of clean, safe water. This will also help prevent constipation. \r\n\r\nIf you take iron tablets to stop you getting anaemic, they can cause constipation. Do not stop taking the tablets, as they are very important for you and your baby\u2019s health. Instead, ask your doctor or health worker for a different type of iron tablet and drink more clean, safe water; eat well and make sure you get some exercise every day.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 92, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "i-am-constipated-help", 
+  "uuid": "5e931005512c4986a9f721c5f73e0b17"
+}
