@@ -1,0 +1,29 @@
+{
+  "subtitle": "When to worry about belly pains", 
+  "description": "When to worry about belly pains", 
+  "language": "eng_GB", 
+  "title": "I have pain in my belly", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-05-20T08:30:04.711354+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-20T08:30:04.711770+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nAches, pains and cramps in your belly while you are pregnant are normal. They are usually nothing to worry about. Your body is changing to support your growing baby, and your womb is stretching to fit the baby as he grows.\r\n\r\nGetting some rest usually eases the cramps. Try to relax. Sit down for a while with your feet up, or lie down on the side opposite to the where you feel the pain.\r\n\r\nSometimes belly pain can mean something is wrong:\r\n\r\n - \tCramps, bleeding and pain in the centre of the lower belly in early pregnancy could mean a miscarriage. Go to the health facility if you feel like this. If the bleeding is heavy and you are soaking more than 1 pad in 1 hour, you need to rush to the health facility. \r\n\r\n - \tPainful cramps that start on one side and spread across your belly may mean that your pregnancy is developing in the wrong place. You may also have bleeding that is dark and watery. This happens in early pregnancy. Go to the health facility immediately.\r\n\r\nIn later pregnancy, If you have pain in your lower belly along with backache, cramps and diarrhoea, it may mean your baby is trying to be born early Go to the health facility if you have frequent pains in late pregnancy, if you have bleeding or your waters break .\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "i-have-pain-my-belly", 
+  "uuid": "eb84255c05f44647ba5bac2f66d2405e"
+}
