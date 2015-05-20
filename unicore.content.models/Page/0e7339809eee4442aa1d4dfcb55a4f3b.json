@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0822bf43226f4db1a305797654fcd9c8", 
+    "bf1d5bd0712248dbb9a687b49d58d105"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nMalaria can make you and your baby very sick. You may become anaemic - this is when you do not have enough iron in your blood, which makes you short of breath and weak. Here are some ways to protect yourself and your baby from malaria:\r\n\r\n - \tSleep under an insecticide-treated bed net, even if the weather is especially hot.\r\n\r\n - \tMosquitoes are attracted to dark colours. Wear light-coloured clothing, especially if you go out in the evening.\r\n\r\n - \tStop mosquitoes getting to your skin by wearing long sleeves and full-length clothes. \r\n\r\n - \tA mosquito repellent on your skin will help keep mosquitoes away. Use an indoor spray or mosquito coils in the house as well. \r\n\r\n - \tMosquitoes live in stagnant water, rotting leaves and damp areas. Check there are none of these around your home.\r\n\r\nThe health facility may give you medicine to take to help prevent malaria. \r\n\r\n", 
   "source": null, 
