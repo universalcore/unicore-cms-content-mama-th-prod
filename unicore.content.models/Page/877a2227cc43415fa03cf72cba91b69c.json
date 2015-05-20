@@ -1,0 +1,29 @@
+{
+  "subtitle": "A health facility, clinic or hospital is safest", 
+  "description": "A health facility, clinic or hospital is safest", 
+  "language": "eng_GB", 
+  "title": "Where to have my baby?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-05-20T08:42:30.870636+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-20T08:42:30.870813+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nAs your baby\u2019s arrival time gets closer, it is time to make plans.\r\n\r\nA health facility is the safest place to have your baby. Work out how long it will take to get there. Talk with your family about transport and decide who you will have with you. Choose someone you trust.\r\n\r\nIf your baby comes too quickly or you cannot get to a health facility in time for the birth:\r\n\r\n - \tIt is vital to have a medically skilled attendant. Make sure your family knows how to contact the attendant. Your attendant may have a birth kit. It will contain a sheet, gloves, clean string and tools for cutting your baby's cord. \r\n\r\n - \tIf you cannot get a birth kit, find a clean sheet to have your baby on and 2 cloths, one to dry your baby and one to wrap her in. Have a clean, sharp knife or a clean pair of scissors and 2 pieces of clean string ready. \r\n\r\n - \tYour attendant must wash her hands and you must wash between your legs. Get plenty of clean, safe, water and soap ready. \r\n\r\nGo to the hospital as soon as you can after your baby is born.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "where-have-my-baby", 
+  "uuid": "877a2227cc43415fa03cf72cba91b69c"
+}
