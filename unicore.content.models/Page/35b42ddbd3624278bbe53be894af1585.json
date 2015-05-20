@@ -1,0 +1,29 @@
+{
+  "subtitle": "Here\u2019s how!", 
+  "description": "Here\u2019s how!", 
+  "language": "eng_GB", 
+  "title": "How do I know I am in labour?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-05-20T08:45:05.758266+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-20T08:45:05.758493+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIf this is your first baby you may not be sure if you are in labour or not. If you have had a baby before you will know, because you will remember how you felt last time. \r\n\r\nYou may get practice contractions. They come and go all the time you are pregnant. But if you are trying to decide if you are in labour and when to go to the health facility, answering these questions may help:\r\n\r\n - \tDo you have pain in your lower back or low down in your belly?\r\n\r\n - \tDo you have cramp-like feelings, as if you are about to start your period? \r\n\r\n - \tIs there a brown or blood-tinged jelly-like sticky fluid coming from your vagina?\r\n\r\n - \tAre you having contractions that are getting longer and stronger? Contractions feel like period pains. They come and go at first. Go to the hospital when they are regular.\r\n\r\n - \tHave your waters burst? Your baby has been floating inside a bag of fluid. If the bag breaks, with a trickle or a gush of fluid, you should go to the hospital. Your baby is on the way! \r\n\r\nIf you have some of these signs, it means that you are in early labour.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-do-i-know-i-am-labour", 
+  "uuid": "35b42ddbd3624278bbe53be894af1585"
+}
