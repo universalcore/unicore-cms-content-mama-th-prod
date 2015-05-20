@@ -1,0 +1,29 @@
+{
+  "subtitle": "You may be anaemic", 
+  "description": "You may be anaemic", 
+  "language": "eng_GB", 
+  "title": "Feel tired and weak?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-05-20T08:40:03.710745+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-20T08:40:03.711187+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nYou need a lot of extra iron in your blood in pregnancy. The iron helps your baby grow so that he is not born too early and can be born healthy. Iron also helps to reduce the amount you bleed at the birth. You can get iron by eating food which contains iron. \r\n\r\nWithout enough iron your body will not get as much oxygen. This is called iron-deficiency anaemia. It will make you feel tired and weak.\r\n\r\nTry to eat plenty of iron-rich foods each day. There are lots of iron-rich foods: \r\n\r\n - \tTofu, broccoli and green leafy vegetables \r\n\r\n - \tEggs, poultry, fish, and meat \r\n\r\nTo get enough iron, try to have a mixture of all these foods. \r\n\r\nSome health facilities will give you free iron tablets. When you take them each day, have some fruit, or fruit juice. This will help your body take in more of the iron.\r\n\r\nTry not to drink black tea or coffee with meals, as these drinks make it harder for your body to get iron.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "feel-tired-and-weak", 
+  "uuid": "a8cea7a1efd4435b85d2b76e46befdf3"
+}
