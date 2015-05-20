@@ -1,0 +1,29 @@
+{
+  "subtitle": "You can protect your baby from HIV", 
+  "description": "You can protect your baby from HIV", 
+  "language": "eng_GB", 
+  "title": "What if I\u2019m living with HIV?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-05-20T08:35:57.500710+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-20T08:35:57.500917+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIf you are HIV+, you are not alone, lots of pregnant women are living with HIV.  But you can prevent it being passed to your baby with the right care during pregnancy.\r\n\r\nIf you have not been tested for HIV yet, you may be able to get tested for free at a health facility. Only you will know the results, but you could take a friend with you for support.\r\n\r\nIf your first HIV test was negative you will be offered another test later in pregnancy. Please take it if you can. You can avoid passing HIV to your baby with the right care.\r\n\r\nIt can be scary to find out you have HIV. Give yourself time to get used to it. No one can see it and lots of pregnant women are living with it. Medicine will help prevent transmission of HIV to your baby. Some health facilities offer this medicine free.\r\n\r\nYou can lead a normal life if you take all your medicines and look after yourself. \r\n\r\nYou will need medicines called antiretrovirals (ARVs). ARVs help you live a healthy life. ARVs also help to make sure that HIV does not spread to your baby. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-if-im-living-hiv", 
+  "uuid": "d2911f2da667476ea57a9f1f1418057b"
+}
