@@ -1,0 +1,29 @@
+{
+  "subtitle": "Healthy mom, healthy baby", 
+  "description": "Healthy mom, healthy baby", 
+  "language": "eng_GB", 
+  "title": "5 ways to stay healthy", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-05-20T08:26:40.382095+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-20T08:26:40.382331+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\n1.\t**Eat well.** Try to eat some fruits and vegetables every day. Eat rice, coconut milk, eggs and tofu regularly. Add cashew nuts and peanuts to your food to make it even more healthy. Fruits like mangoes, papayas and jackfruits are good to eat. Get lots of them.  Try to have one extra handful of food with every meal. Don\u2019t go without food for too long. Carry some food with you if you have to go somewhere.\r\n\r\n2.\t**Get check-ups** while you are pregnant. Try to have 4 visits to your health provider. Get your blood and urine tests and blood pressure checks done regularly. These tests help to find problems early. Then you can get treatment and keep you and your baby safe. \r\n\r\n3.\t**Get tested for HIV if you are worried.** If you are HIV+, there are free medicines to help keep you well and prevent your baby from being born HIV+. If you find out you are not HIV+, you can make sure you stay that way.\r\n\r\n4.\t**Take your pregnancy tablets .** These tablets help your baby grow well. Ask your health worker if you can get them free.\r\n\r\n5. **Keep clean.** Wash your hands with soap before cooking and eating and after using the toilet.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "5-ways-stay-healthy", 
+  "uuid": "0822bf43226f4db1a305797654fcd9c8"
+}
