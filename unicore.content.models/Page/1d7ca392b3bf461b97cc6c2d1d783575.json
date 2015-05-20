@@ -1,0 +1,29 @@
+{
+  "subtitle": "You need food for energy when breastfeeding", 
+  "description": "You need food for energy when breastfeeding", 
+  "language": "eng_GB", 
+  "title": "Eat more food now!", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-05-20T08:55:49.485628+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-20T08:55:49.485836+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nBreastfeeding can make you very hungry! You will need to eat a little more than normal. Your body is very good at making milk, but if you don't eat enough, you may feel tired and faint. \r\n\r\nTry to eat lots of fresh fruits and vegetables like kale, spinach, broccoli, mushrooms, raw guava, taro,  mangoes, papayas and jackfruit. Think about eating a variety of colours each day. Eat energy-giving food like rice, noodles and potato. Eat protein, found in eggs, tofu, fish, poultry and meat. Try to get some soy milk, coconut milk and nuts.  Just eat a good variety, and your body will get all it needs to help you feed your baby well.\r\n\r\nTry to eat 3 main meals a day at regular times. Eat plenty of snacks throughout the day, to keep up your energy levels. Good snacks are dried fruit, nuts, fresh fruit and vegetables and seeds.Breastfeeding can make you feel thirsty. Have a drink before you feed your baby. Clean, safe water is good. You do not have to drink milk to make milk, but you do need to drink plenty of clean safe water. Do not drink too much coffee, cola or fizzy drinks. Just 1 or 2 glasses of these a day is enough. \r\n\r\nIf you do not want to eat, it could be a sign that you need extra help. If it is a struggle to eat, and you are forcing yourself, talk to your health worker. \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "eat-more-food-now", 
+  "uuid": "1d7ca392b3bf461b97cc6c2d1d783575"
+}
