@@ -1,0 +1,29 @@
+{
+  "subtitle": "They help you stay well", 
+  "description": "They help you stay well", 
+  "language": "eng_GB", 
+  "title": "Why do I need regular check-ups?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-05-20T08:26:56.721691+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-20T08:26:56.721914+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nWhen you are pregnant, it is a good idea to have regular check-ups by a health worker. It is best to have at least 4 visits while you are pregnant. Try to make the first visit for just after you missed your period.  \r\n\r\nHere is why regular check-ups make sense:\r\n\r\n - \tAt the check-up a health worker will do tests to make sure you and your baby are well. \r\n\r\n - \tIf there are problems when you are pregnant, your health worker will find them early. This will give you the best chance of getting the right treatment so you and your baby are healthy. If you have questions about your pregnancy, your health worker is the best person to ask. She will answer your questions and give you the right information.\r\n\r\n - \tYou may be able to get free iron and folic acid tablets at the health facility. These tablets give you the strength to carry your baby and help your baby grow well. \r\n\r\n - \tYou will feel reassured that your baby is growing well.\r\n\r\nFind out how to go to your nearest health worker or health facility. Talk to your family about why you need to visit them regularly during pregnancy. Ask them for help if you need transport. \r\n\r\nIf you are worried, ask a close friend or a family member to go with you. If it is a long way, you may want to carry some food and clean, safe water with you.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "why-do-i-need-regular-check-ups", 
+  "uuid": "0cab2df3e6f949ca84e5a33ff1b145e6"
+}
