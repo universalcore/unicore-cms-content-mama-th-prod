@@ -1,0 +1,20 @@
+{
+  "subtitle": "Pregnancy Thai", 
+  "uuid": "72a613b786c34b53bdd54c380dd8054f", 
+  "language": "tha_TH", 
+  "title": "\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e23\u0e23\u0e20\u0e4c", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "Pregnancy-Thai", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
