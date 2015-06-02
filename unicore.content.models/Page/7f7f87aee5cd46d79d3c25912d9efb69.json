@@ -6,12 +6,12 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2014-10-10T08:55:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-14T13:10:38.835431+00:00", 
+  "modified_at": "2015-06-02T08:53:55.216214+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,13 +19,13 @@
     "67088a0652234760a47076c1421d4f24"
   ], 
   "id": "7f7f87aee5cd46d79d3c25912d9efb69", 
-  "content": "Created by Baby Center\r\n\r\nBy now, your baby may have started crawling, or shuffling on his bottom. When your baby is mobile, he will start to have bumps and falls. This is part of growing up. Enjoy watching him explore but make sure your house is a safe as you can make it. \r\n\r\nYour baby is learning about objects by shaking, banging, dropping, and throwing them. He\u2019s learning about what he can do to an object.  \r\n\r\nYour baby will start to show interest in things you use. Slowly, he will start to use objects properly. You may find him trying to brush his hair or drink from a cup.\r\n\r\nYour baby's vision is much clearer now. He can see almost as well as you. Now he can recognise people and objects across a room. He may see a toy on the other side of the room and try to crawl towards it. His eyes are close to their final colour, too, though you may see small changes later.\r\n\r\nSoon, your baby will start to stand and move around the room by holding onto walls and furniture.  \r\n", 
+  "content": "Created by Baby Center\r\n\r\n\r\nBy now, your baby may have started crawling, or shuffling on his bottom. When your baby is mobile, he will start to have little accidents and falls. This is part of growing up. Enjoy watching him explore but make sure your house is a safe as you can make it. \r\n\r\nYour baby is learning about objects by shaking, banging, dropping, and throwing them. He is learning about what he can do to an object.  \r\n\r\nYour baby will start to show interest in things you use. Slowly, he will start to use objects properly. You may find him trying to brush his hair or drink from a cup.\r\n\r\nYour baby's vision is much clearer now. He can see almost as well as you. Now he can recognise people and objects across a room. He may see a toy on the other side of the room and try to crawl towards it. His eyes are close to their final colour, too, though you may see small changes later.\r\n\r\nSoon, your baby will start to stand and move around the room by holding onto walls and furniture.  \r\n\r\n\r\n", 
   "source": null, 
   "featured": true, 
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 109, 
+  "position": 220, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "8-months-old", 
   "uuid": "7f7f87aee5cd46d79d3c25912d9efb69"
